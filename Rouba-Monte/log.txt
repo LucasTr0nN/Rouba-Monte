@@ -1,0 +1,357 @@
+Iniciando um novo jogo...
+O número de baralhos da partida é de: 2, totalizando 104 Cartas.
+A quantidade de jogares dessa partida é de: 2
+Jogador fa foi adicionado na partida.
+Jogador fe foi adicionado na partida.
+Monte de compras criado...
+Monte de compra embaralhado.
+Monte embaralhado...
+Jogador 1 iniciará a partida.
+11/26/2024 1:54:05 PM: fa Descartou a carta 7 de Paus
+11/26/2024 1:54:05 PM: fe Descartou a carta 12 de Copas
+11/26/2024 1:54:05 PM: fa Descartou a carta 10 de Copas
+11/26/2024 1:54:05 PM: fe Descartou a carta 2 de Espadas
+11/26/2024 1:54:05 PM: fa Descartou a carta 3 de Paus
+11/26/2024 1:54:05 PM: fe Descartou a carta 1 de Copas
+11/26/2024 1:54:05 PM: fa Descartou a carta 8 de Paus
+11/26/2024 1:54:05 PM: fe Descartou a carta 7 de Copas
+11/26/2024 1:54:05 PM: fa Descartou a carta 6 de Copas
+11/26/2024 1:54:05 PM: fe Descartou a carta 13 de Copas
+11/26/2024 1:54:05 PM: fa Pegou da área de descarte a carta 13 de Espadas
+11/26/2024 1:54:05 PM: fe Descartou a carta 11 de Ouros
+11/26/2024 1:54:05 PM: fa Descartou a carta 10 de Paus
+11/26/2024 1:54:05 PM: fe Descartou a carta 8 de Espadas
+11/26/2024 1:54:05 PM: fa Pegou da área de descarte a carta 8 de Espadas
+11/26/2024 1:54:05 PM: fe Descartou a carta 11 de Copas
+11/26/2024 1:54:05 PM: fa Descartou a carta 5 de Espadas
+11/26/2024 1:54:05 PM: fe Descartou a carta 6 de Copas
+11/26/2024 1:54:05 PM: fa Descartou a carta 3 de Copas
+11/26/2024 1:54:05 PM: fe Descartou a carta 13 de Ouros
+11/26/2024 1:54:05 PM: fa Descartou a carta 11 de Ouros
+11/26/2024 1:54:05 PM: fe Descartou a carta 2 de Copas
+11/26/2024 1:54:05 PM: fa Descartou a carta 3 de Ouros
+11/26/2024 1:54:05 PM: fe Descartou a carta 12 de Paus
+11/26/2024 1:54:05 PM: fa Descartou a carta 9 de Copas
+11/26/2024 1:54:05 PM: fe Descartou a carta 1 de Paus
+11/26/2024 1:54:05 PM: fa Descartou a carta 5 de Ouros
+11/26/2024 1:54:05 PM: fe Descartou a carta 13 de Paus
+11/26/2024 1:54:05 PM: fa Descartou a carta 1 de Ouros
+11/26/2024 1:54:05 PM: fe Descartou a carta 11 de Copas
+11/26/2024 1:54:05 PM: fa Descartou a carta 5 de Paus
+11/26/2024 1:54:05 PM: fe Descartou a carta 3 de Ouros
+11/26/2024 1:54:05 PM: fa Descartou a carta 7 de Ouros
+11/26/2024 1:54:05 PM: fe Descartou a carta 3 de Espadas
+11/26/2024 1:54:05 PM: fa Descartou a carta 1 de Paus
+11/26/2024 1:54:05 PM: fe Descartou a carta 12 de Ouros
+11/26/2024 1:54:05 PM: fa Descartou a carta 5 de Espadas
+11/26/2024 1:54:05 PM: fe Descartou a carta 4 de Ouros
+11/26/2024 1:54:05 PM: fa Descartou a carta 13 de Ouros
+11/26/2024 1:54:05 PM: fe Descartou a carta 9 de Ouros
+11/26/2024 1:54:05 PM: fa Descartou a carta 2 de Copas
+11/26/2024 1:54:05 PM: fe Descartou a carta 6 de Espadas
+11/26/2024 1:54:05 PM: fa Descartou a carta 4 de Espadas
+11/26/2024 1:54:05 PM: fe Pegou da área de descarte a carta 4 de Copas
+11/26/2024 1:54:05 PM: fa Descartou a carta 1 de Espadas
+11/26/2024 1:54:05 PM: fe Descartou a carta 5 de Copas
+11/26/2024 1:54:05 PM: fa Colocou em seu próprio monte a carta 8 de Ouros
+11/26/2024 1:54:05 PM: fe Roubou o monte de a carta 8 de Ouros
+11/26/2024 1:54:05 PM: fa Descartou a carta 13 de Copas
+11/26/2024 1:54:05 PM: fe Descartou a carta 11 de Espadas
+11/26/2024 1:54:05 PM: fa Descartou a carta 3 de Paus
+11/26/2024 1:54:05 PM: fe Roubou o monte de a carta 8 de Copas
+11/26/2024 1:54:05 PM: fa Descartou a carta 12 de Copas
+11/26/2024 1:54:05 PM: fe Descartou a carta 11 de Paus
+11/26/2024 1:54:05 PM: fa Descartou a carta 6 de Paus
+11/26/2024 1:54:05 PM: fe Descartou a carta 4 de Paus
+11/26/2024 1:54:05 PM: fa Descartou a carta 9 de Paus
+11/26/2024 1:54:05 PM: fe Descartou a carta 10 de Espadas
+11/26/2024 1:54:05 PM: fa Descartou a carta 4 de Ouros
+11/26/2024 1:54:05 PM: fe Descartou a carta 13 de Espadas
+11/26/2024 1:54:05 PM: fa Descartou a carta 7 de Copas
+11/26/2024 1:54:05 PM: fe Pegou da área de descarte a carta 7 de Paus
+11/26/2024 1:54:05 PM: fa Descartou a carta 5 de Copas
+11/26/2024 1:54:05 PM: fe Descartou a carta 6 de Ouros
+11/26/2024 1:54:05 PM: fa Roubou o monte de a carta 7 de Ouros
+11/26/2024 1:54:05 PM: fe Descartou a carta 9 de Ouros
+11/26/2024 1:54:05 PM: fa Descartou a carta 2 de Paus
+11/26/2024 1:54:05 PM: fe Descartou a carta 4 de Espadas
+11/26/2024 1:54:05 PM: fa Descartou a carta 6 de Paus
+11/26/2024 1:54:05 PM: fe Descartou a carta 9 de Paus
+11/26/2024 1:54:05 PM: fa Descartou a carta 5 de Paus
+11/26/2024 1:54:05 PM: fe Descartou a carta 2 de Paus
+11/26/2024 1:54:05 PM: fa Pegou da área de descarte a carta 2 de Ouros
+11/26/2024 1:54:05 PM: fe Descartou a carta 3 de Copas
+11/26/2024 1:54:05 PM: fa Descartou a carta 12 de Espadas
+11/26/2024 1:54:05 PM: fe Descartou a carta 1 de Copas
+11/26/2024 1:54:05 PM: fa Descartou a carta 10 de Copas
+11/26/2024 1:54:05 PM: fe Descartou a carta 13 de Paus
+11/26/2024 1:54:05 PM: fa Descartou a carta 9 de Espadas
+11/26/2024 1:54:05 PM: fe Descartou a carta 12 de Ouros
+11/26/2024 1:54:05 PM: fa Descartou a carta 1 de Ouros
+11/26/2024 1:54:05 PM: fe Descartou a carta 9 de Copas
+11/26/2024 1:54:05 PM: fa Descartou a carta 10 de Ouros
+11/26/2024 1:54:05 PM: fe Roubou o monte de a carta 2 de Espadas
+11/26/2024 1:54:05 PM: fa Descartou a carta 8 de Paus
+11/26/2024 1:54:05 PM: fe Descartou a carta 9 de Espadas
+11/26/2024 1:54:05 PM: fa Descartou a carta 11 de Espadas
+11/26/2024 1:54:05 PM: fe Descartou a carta 5 de Ouros
+11/26/2024 1:54:05 PM: fa Descartou a carta 10 de Paus
+11/26/2024 1:54:05 PM: fe Descartou a carta 6 de Espadas
+11/26/2024 1:54:05 PM: fa Descartou a carta 12 de Paus
+11/26/2024 1:54:05 PM: fe Descartou a carta 6 de Ouros
+11/26/2024 1:54:05 PM: fa Descartou a carta 7 de Espadas
+11/26/2024 1:54:05 PM: fe Descartou a carta 10 de Ouros
+11/26/2024 1:54:05 PM: fa Descartou a carta 1 de Espadas
+11/26/2024 1:54:05 PM: fe Descartou a carta 4 de Paus
+11/26/2024 1:54:05 PM: fa Descartou a carta 7 de Espadas
+11/26/2024 1:54:05 PM: fe Descartou a carta 11 de Paus
+11/26/2024 1:54:05 PM: fa Descartou a carta 12 de Espadas
+11/26/2024 1:54:05 PM: fe Descartou a carta 8 de Copas
+11/26/2024 1:54:05 PM: fa Descartou a carta 3 de Espadas
+11/26/2024 1:54:05 PM: fe Roubou o monte de a carta 2 de Ouros
+11/26/2024 1:54:05 PM: fa Descartou a carta 10 de Espadas
+11/26/2024 1:54:05 PM: fe Descartou a carta 4 de Copas
+Ranking Final da Partida:
+1° Lugar: fe com 11 cartas.
+2° Lugar: fa com 5 cartas.
+
+O vencedor é: fe com 11 cartas.
+
+Ranking da partida:
+fe: 11 cartas
+fa: 5 cartas
+Iniciando um novo jogo...
+O número de baralhos da partida é de: 4, totalizando 208 Cartas.
+A quantidade de jogares dessa partida é de: 3
+Jogador qw foi adicionado na partida.
+Jogador ew foi adicionado na partida.
+Jogador rw foi adicionado na partida.
+Monte de compras criado...
+Monte de compra embaralhado.
+Monte embaralhado...
+Jogador 1 iniciará a partida.
+11/26/2024 1:54:18 PM: qw Descartou a carta 2 de Copas
+11/26/2024 1:54:18 PM: ew Descartou a carta 7 de Copas
+11/26/2024 1:54:18 PM: rw Descartou a carta 4 de Paus
+11/26/2024 1:54:18 PM: qw Descartou a carta 5 de Paus
+11/26/2024 1:54:18 PM: ew Descartou a carta 7 de Paus
+11/26/2024 1:54:18 PM: rw Descartou a carta 11 de Espadas
+11/26/2024 1:54:18 PM: qw Descartou a carta 5 de Espadas
+11/26/2024 1:54:18 PM: ew Descartou a carta 4 de Ouros
+11/26/2024 1:54:18 PM: rw Descartou a carta 11 de Copas
+11/26/2024 1:54:18 PM: qw Pegou da área de descarte a carta 11 de Copas
+11/26/2024 1:54:18 PM: ew Descartou a carta 12 de Espadas
+11/26/2024 1:54:18 PM: rw Descartou a carta 2 de Paus
+11/26/2024 1:54:18 PM: qw Descartou a carta 1 de Paus
+11/26/2024 1:54:18 PM: ew Roubou o monte de a carta 11 de Paus
+11/26/2024 1:54:18 PM: rw Descartou a carta 5 de Copas
+11/26/2024 1:54:18 PM: qw Descartou a carta 4 de Copas
+11/26/2024 1:54:18 PM: ew Descartou a carta 3 de Copas
+11/26/2024 1:54:18 PM: rw Descartou a carta 6 de Espadas
+11/26/2024 1:54:18 PM: qw Descartou a carta 4 de Copas
+11/26/2024 1:54:18 PM: ew Descartou a carta 12 de Copas
+11/26/2024 1:54:18 PM: rw Descartou a carta 9 de Ouros
+11/26/2024 1:54:18 PM: qw Descartou a carta 8 de Espadas
+11/26/2024 1:54:18 PM: ew Descartou a carta 7 de Ouros
+11/26/2024 1:54:18 PM: rw Descartou a carta 4 de Paus
+11/26/2024 1:54:18 PM: qw Pegou da área de descarte a carta 4 de Copas
+11/26/2024 1:54:18 PM: ew Descartou a carta 13 de Espadas
+11/26/2024 1:54:18 PM: rw Descartou a carta 12 de Paus
+11/26/2024 1:54:18 PM: qw Descartou a carta 5 de Paus
+11/26/2024 1:54:18 PM: ew Descartou a carta 8 de Espadas
+11/26/2024 1:54:18 PM: rw Pegou da área de descarte a carta 8 de Paus
+11/26/2024 1:54:18 PM: qw Descartou a carta 10 de Ouros
+11/26/2024 1:54:18 PM: ew Descartou a carta 13 de Copas
+11/26/2024 1:54:18 PM: rw Descartou a carta 5 de Ouros
+11/26/2024 1:54:18 PM: qw Descartou a carta 13 de Copas
+11/26/2024 1:54:18 PM: ew Descartou a carta 5 de Ouros
+11/26/2024 1:54:18 PM: rw Descartou a carta 3 de Ouros
+11/26/2024 1:54:18 PM: qw Descartou a carta 6 de Ouros
+11/26/2024 1:54:18 PM: ew Descartou a carta 9 de Espadas
+11/26/2024 1:54:18 PM: rw Descartou a carta 12 de Ouros
+11/26/2024 1:54:18 PM: qw Roubou o monte de a carta 8 de Copas
+11/26/2024 1:54:18 PM: ew Descartou a carta 1 de Ouros
+11/26/2024 1:54:18 PM: rw Descartou a carta 9 de Paus
+11/26/2024 1:54:18 PM: qw Descartou a carta 13 de Copas
+11/26/2024 1:54:18 PM: ew Descartou a carta 10 de Paus
+11/26/2024 1:54:18 PM: rw Descartou a carta 13 de Paus
+11/26/2024 1:54:18 PM: qw Descartou a carta 9 de Ouros
+11/26/2024 1:54:18 PM: ew Descartou a carta 2 de Copas
+11/26/2024 1:54:18 PM: rw Descartou a carta 1 de Ouros
+11/26/2024 1:54:18 PM: qw Roubou o monte de a carta 11 de Espadas
+11/26/2024 1:54:18 PM: ew Descartou a carta 12 de Paus
+11/26/2024 1:54:18 PM: rw Descartou a carta 2 de Paus
+11/26/2024 1:54:18 PM: qw Descartou a carta 13 de Paus
+11/26/2024 1:54:18 PM: ew Descartou a carta 6 de Copas
+11/26/2024 1:54:18 PM: rw Pegou da área de descarte a carta 6 de Paus
+11/26/2024 1:54:18 PM: qw Descartou a carta 12 de Copas
+11/26/2024 1:54:18 PM: ew Descartou a carta 8 de Paus
+11/26/2024 1:54:18 PM: rw Descartou a carta 1 de Paus
+11/26/2024 1:54:18 PM: qw Descartou a carta 3 de Espadas
+11/26/2024 1:54:18 PM: ew Descartou a carta 4 de Ouros
+11/26/2024 1:54:18 PM: rw Descartou a carta 9 de Paus
+11/26/2024 1:54:18 PM: qw Descartou a carta 1 de Copas
+11/26/2024 1:54:18 PM: ew Pegou da área de descarte a carta 1 de Ouros
+11/26/2024 1:54:18 PM: rw Pegou da área de descarte a carta 9 de Espadas
+11/26/2024 1:54:18 PM: qw Pegou da área de descarte a carta 4 de Copas
+11/26/2024 1:54:18 PM: ew Colocou em seu próprio monte a carta 1 de Paus
+11/26/2024 1:54:18 PM: rw Descartou a carta 13 de Espadas
+11/26/2024 1:54:18 PM: qw Descartou a carta 10 de Copas
+11/26/2024 1:54:18 PM: ew Colocou em seu próprio monte a carta 1 de Espadas
+11/26/2024 1:54:18 PM: rw Descartou a carta 6 de Ouros
+11/26/2024 1:54:18 PM: qw Descartou a carta 13 de Ouros
+11/26/2024 1:54:18 PM: ew Descartou a carta 11 de Espadas
+11/26/2024 1:54:18 PM: rw Descartou a carta 7 de Espadas
+11/26/2024 1:54:18 PM: qw Descartou a carta 8 de Paus
+11/26/2024 1:54:18 PM: ew Descartou a carta 10 de Ouros
+11/26/2024 1:54:18 PM: rw Pegou da área de descarte a carta 10 de Espadas
+11/26/2024 1:54:18 PM: qw Descartou a carta 2 de Espadas
+11/26/2024 1:54:18 PM: ew Descartou a carta 9 de Paus
+11/26/2024 1:54:18 PM: rw Roubou o monte de a carta 1 de Paus
+11/26/2024 1:54:18 PM: qw Descartou a carta 5 de Ouros
+11/26/2024 1:54:18 PM: ew Descartou a carta 6 de Paus
+11/26/2024 1:54:18 PM: rw Descartou a carta 10 de Espadas
+11/26/2024 1:54:18 PM: qw Roubou o monte de a carta 1 de Copas
+11/26/2024 1:54:18 PM: ew Descartou a carta 7 de Ouros
+11/26/2024 1:54:18 PM: rw Descartou a carta 11 de Copas
+11/26/2024 1:54:18 PM: qw Descartou a carta 8 de Paus
+11/26/2024 1:54:18 PM: ew Descartou a carta 2 de Ouros
+11/26/2024 1:54:18 PM: rw Descartou a carta 8 de Ouros
+11/26/2024 1:54:18 PM: qw Descartou a carta 13 de Ouros
+11/26/2024 1:54:18 PM: ew Descartou a carta 2 de Paus
+11/26/2024 1:54:18 PM: rw Descartou a carta 10 de Paus
+11/26/2024 1:54:18 PM: qw Descartou a carta 3 de Paus
+11/26/2024 1:54:18 PM: ew Descartou a carta 4 de Paus
+11/26/2024 1:54:18 PM: rw Descartou a carta 5 de Espadas
+11/26/2024 1:54:18 PM: qw Descartou a carta 3 de Paus
+11/26/2024 1:54:18 PM: ew Descartou a carta 7 de Ouros
+11/26/2024 1:54:18 PM: rw Descartou a carta 13 de Paus
+11/26/2024 1:54:18 PM: qw Descartou a carta 10 de Ouros
+11/26/2024 1:54:18 PM: ew Descartou a carta 9 de Paus
+11/26/2024 1:54:18 PM: rw Pegou da área de descarte a carta 9 de Espadas
+11/26/2024 1:54:18 PM: qw Descartou a carta 12 de Ouros
+11/26/2024 1:54:18 PM: ew Pegou da área de descarte a carta 12 de Espadas
+11/26/2024 1:54:18 PM: rw Descartou a carta 13 de Copas
+11/26/2024 1:54:18 PM: qw Descartou a carta 7 de Copas
+11/26/2024 1:54:18 PM: ew Descartou a carta 10 de Paus
+11/26/2024 1:54:18 PM: rw Descartou a carta 13 de Espadas
+11/26/2024 1:54:18 PM: qw Descartou a carta 6 de Copas
+11/26/2024 1:54:18 PM: ew Descartou a carta 5 de Copas
+11/26/2024 1:54:18 PM: rw Descartou a carta 7 de Copas
+11/26/2024 1:54:18 PM: qw Pegou da área de descarte a carta 7 de Ouros
+11/26/2024 1:54:18 PM: ew Descartou a carta 11 de Copas
+11/26/2024 1:54:18 PM: rw Roubou o monte de a carta 12 de Paus
+11/26/2024 1:54:18 PM: qw Descartou a carta 1 de Ouros
+11/26/2024 1:54:18 PM: ew Descartou a carta 11 de Paus
+11/26/2024 1:54:18 PM: rw Descartou a carta 8 de Ouros
+11/26/2024 1:54:18 PM: qw Descartou a carta 10 de Ouros
+11/26/2024 1:54:18 PM: ew Descartou a carta 1 de Espadas
+11/26/2024 1:54:18 PM: rw Descartou a carta 6 de Espadas
+11/26/2024 1:54:18 PM: qw Roubou o monte de a carta 12 de Copas
+11/26/2024 1:54:18 PM: ew Descartou a carta 9 de Espadas
+11/26/2024 1:54:18 PM: rw Descartou a carta 3 de Copas
+11/26/2024 1:54:18 PM: qw Descartou a carta 4 de Paus
+11/26/2024 1:54:18 PM: ew Descartou a carta 9 de Copas
+11/26/2024 1:54:18 PM: rw Roubou o monte de a carta 12 de Espadas
+11/26/2024 1:54:18 PM: qw Descartou a carta 7 de Paus
+11/26/2024 1:54:18 PM: ew Descartou a carta 9 de Copas
+11/26/2024 1:54:18 PM: rw Descartou a carta 6 de Ouros
+11/26/2024 1:54:18 PM: qw Descartou a carta 3 de Paus
+11/26/2024 1:54:18 PM: ew Pegou da área de descarte a carta 3 de Espadas
+11/26/2024 1:54:18 PM: rw Descartou a carta 2 de Paus
+11/26/2024 1:54:18 PM: qw Descartou a carta 8 de Copas
+11/26/2024 1:54:18 PM: ew Descartou a carta 2 de Espadas
+11/26/2024 1:54:18 PM: rw Roubou o monte de a carta 12 de Espadas
+11/26/2024 1:54:18 PM: qw Descartou a carta 1 de Espadas
+11/26/2024 1:54:18 PM: ew Descartou a carta 5 de Paus
+11/26/2024 1:54:18 PM: rw Roubou o monte de a carta 7 de Paus
+11/26/2024 1:54:18 PM: qw Descartou a carta 9 de Copas
+11/26/2024 1:54:18 PM: ew Colocou em seu próprio monte a carta 3 de Espadas
+11/26/2024 1:54:18 PM: rw Pegou da área de descarte a carta 9 de Ouros
+11/26/2024 1:54:18 PM: qw Roubou o monte de a carta 9 de Ouros
+11/26/2024 1:54:18 PM: ew Descartou a carta 2 de Ouros
+11/26/2024 1:54:18 PM: rw Descartou a carta 7 de Espadas
+11/26/2024 1:54:18 PM: qw Descartou a carta 11 de Espadas
+11/26/2024 1:54:18 PM: ew Descartou a carta 5 de Espadas
+11/26/2024 1:54:18 PM: rw Descartou a carta 12 de Ouros
+11/26/2024 1:54:18 PM: qw Roubou o monte de a carta 9 de Copas
+11/26/2024 1:54:18 PM: ew Descartou a carta 2 de Copas
+11/26/2024 1:54:18 PM: rw Descartou a carta 4 de Espadas
+11/26/2024 1:54:18 PM: qw Descartou a carta 8 de Copas
+11/26/2024 1:54:18 PM: ew Descartou a carta 6 de Espadas
+11/26/2024 1:54:18 PM: rw Roubou o monte de a carta 3 de Espadas
+11/26/2024 1:54:18 PM: qw Descartou a carta 4 de Ouros
+11/26/2024 1:54:18 PM: ew Descartou a carta 10 de Paus
+11/26/2024 1:54:18 PM: rw Descartou a carta 11 de Ouros
+11/26/2024 1:54:18 PM: qw Descartou a carta 7 de Paus
+11/26/2024 1:54:18 PM: ew Descartou a carta 6 de Espadas
+11/26/2024 1:54:18 PM: rw Descartou a carta 2 de Espadas
+11/26/2024 1:54:18 PM: qw Descartou a carta 11 de Ouros
+11/26/2024 1:54:18 PM: ew Descartou a carta 10 de Espadas
+11/26/2024 1:54:18 PM: rw Descartou a carta 12 de Ouros
+11/26/2024 1:54:18 PM: qw Roubou o monte de a carta 3 de Ouros
+11/26/2024 1:54:18 PM: ew Roubou o monte de a carta 3 de Ouros
+11/26/2024 1:54:18 PM: rw Descartou a carta 11 de Ouros
+11/26/2024 1:54:18 PM: qw Descartou a carta 6 de Copas
+11/26/2024 1:54:18 PM: ew Descartou a carta 11 de Ouros
+11/26/2024 1:54:18 PM: rw Descartou a carta 5 de Espadas
+11/26/2024 1:54:18 PM: qw Descartou a carta 12 de Copas
+11/26/2024 1:54:18 PM: ew Descartou a carta 11 de Paus
+11/26/2024 1:54:18 PM: rw Descartou a carta 4 de Espadas
+11/26/2024 1:54:18 PM: qw Descartou a carta 2 de Espadas
+11/26/2024 1:54:18 PM: ew Descartou a carta 13 de Ouros
+11/26/2024 1:54:18 PM: rw Descartou a carta 8 de Espadas
+11/26/2024 1:54:18 PM: qw Descartou a carta 6 de Paus
+11/26/2024 1:54:18 PM: ew Descartou a carta 2 de Ouros
+11/26/2024 1:54:18 PM: rw Descartou a carta 5 de Copas
+11/26/2024 1:54:18 PM: qw Descartou a carta 6 de Ouros
+11/26/2024 1:54:18 PM: ew Descartou a carta 5 de Copas
+11/26/2024 1:54:18 PM: rw Descartou a carta 4 de Ouros
+11/26/2024 1:54:18 PM: qw Descartou a carta 7 de Espadas
+11/26/2024 1:54:18 PM: ew Pegou da área de descarte a carta 7 de Copas
+11/26/2024 1:54:18 PM: rw Descartou a carta 8 de Copas
+11/26/2024 1:54:18 PM: qw Descartou a carta 13 de Espadas
+11/26/2024 1:54:18 PM: ew Pegou da área de descarte a carta 13 de Ouros
+11/26/2024 1:54:18 PM: rw Pegou da área de descarte a carta 8 de Ouros
+11/26/2024 1:54:18 PM: qw Descartou a carta 6 de Copas
+11/26/2024 1:54:18 PM: ew Descartou a carta 11 de Paus
+11/26/2024 1:54:18 PM: rw Descartou a carta 2 de Copas
+11/26/2024 1:54:18 PM: qw Descartou a carta 10 de Copas
+11/26/2024 1:54:18 PM: ew Roubou o monte de a carta 8 de Espadas
+11/26/2024 1:54:18 PM: rw Descartou a carta 5 de Paus
+11/26/2024 1:54:18 PM: qw Descartou a carta 1 de Copas
+11/26/2024 1:54:18 PM: ew Roubou o monte de a carta 3 de Copas
+11/26/2024 1:54:18 PM: rw Roubou o monte de a carta 3 de Paus
+11/26/2024 1:54:18 PM: qw Pegou da área de descarte a carta 1 de Espadas
+11/26/2024 1:54:18 PM: ew Descartou a carta 7 de Espadas
+11/26/2024 1:54:18 PM: rw Descartou a carta 8 de Ouros
+11/26/2024 1:54:18 PM: qw Descartou a carta 2 de Ouros
+11/26/2024 1:54:18 PM: ew Descartou a carta 10 de Copas
+11/26/2024 1:54:18 PM: rw Descartou a carta 5 de Ouros
+11/26/2024 1:54:18 PM: qw Descartou a carta 4 de Espadas
+11/26/2024 1:54:18 PM: ew Descartou a carta 13 de Paus
+11/26/2024 1:54:18 PM: rw Descartou a carta 6 de Paus
+11/26/2024 1:54:18 PM: qw Descartou a carta 10 de Espadas
+11/26/2024 1:54:18 PM: ew Roubou o monte de a carta 1 de Copas
+11/26/2024 1:54:18 PM: rw Colocou em seu próprio monte a carta 3 de Ouros
+11/26/2024 1:54:18 PM: qw Pegou da área de descarte a carta 10 de Copas
+11/26/2024 1:54:18 PM: ew Roubou o monte de a carta 3 de Copas
+11/26/2024 1:54:18 PM: rw Descartou a carta 12 de Paus
+11/26/2024 1:54:18 PM: qw Descartou a carta 4 de Espadas
+Ranking Final da Partida:
+1° Lugar: rw com 24 cartas.
+2° Lugar: qw com 19 cartas.
+3° Lugar: ew com 17 cartas.
+
+O vencedor é: rw com 24 cartas.
+
+Ranking da partida:
+rw: 24 cartas
+qw: 19 cartas
+ew: 17 cartas
+=== Jogadores de jogos anteriores ===
+fa
+fe
+Procurando histórico do jogador fa
+Partida: 1 Posição: 2
+Saindo do jogo...
