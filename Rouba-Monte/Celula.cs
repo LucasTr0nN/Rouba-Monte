@@ -8,8 +8,20 @@ namespace Rouba_Monte
 {
     class Celula
     {
-        public Carta Elemento { get; set; }
-        public Celula Prox { get; set; }
+        private Carta elemento;
+        private Celula prox;
+
+        public Carta Elemento
+        {
+            get { return elemento; }
+            set { elemento = value; }
+        }
+
+        public Celula Prox
+        {
+            get { return prox; }
+            set { prox = value; }
+        }
 
         public Celula(Carta elemento)
         {

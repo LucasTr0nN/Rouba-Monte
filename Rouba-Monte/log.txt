@@ -355,3 +355,1474 @@ fe
 Procurando histórico do jogador fa
 Partida: 1 Posição: 2
 Saindo do jogo...
+Iniciando um novo jogo...
+O número de baralhos da partida é de: 2, totalizando 104 Cartas.
+A quantidade de jogares dessa partida é de: 2
+Jogador fa foi adicionado na partida.
+Jogador fe foi adicionado na partida.
+Monte de compras criado...
+Monte de compra embaralhado.
+Monte embaralhado...
+Jogador 1 iniciará a partida.
+11/26/2024 9:20:01 PM: fa Descartou a carta 4 de Espadas
+11/26/2024 9:20:01 PM: fe Descartou a carta 5 de Ouros
+11/26/2024 9:20:01 PM: fa Descartou a carta 9 de Ouros
+11/26/2024 9:20:01 PM: fe Descartou a carta 1 de Espadas
+11/26/2024 9:20:01 PM: fa Descartou a carta 2 de Espadas
+11/26/2024 9:20:01 PM: fe Descartou a carta 10 de Copas
+11/26/2024 9:20:01 PM: fa Descartou a carta 11 de Copas
+11/26/2024 9:20:01 PM: fe Pegou da área de descarte a carta 9 de Copas
+11/26/2024 9:20:01 PM: fa Descartou a carta 8 de Espadas
+11/26/2024 9:20:01 PM: fe Pegou da área de descarte a carta 4 de Paus
+11/26/2024 9:20:01 PM: fa Descartou a carta 3 de Paus
+11/26/2024 9:20:01 PM: fe Descartou a carta 12 de Copas
+11/26/2024 9:20:01 PM: fa Pegou da área de descarte a carta 3 de Copas
+11/26/2024 9:20:01 PM: fe Descartou a carta 9 de Copas
+11/26/2024 9:20:01 PM: fa Pegou da área de descarte a carta 5 de Copas
+11/26/2024 9:20:01 PM: fe Pegou da área de descarte a carta 10 de Espadas
+11/26/2024 9:20:01 PM: fa Descartou a carta 13 de Paus
+11/26/2024 9:20:01 PM: fe Descartou a carta 6 de Espadas
+11/26/2024 9:20:01 PM: fa Descartou a carta 4 de Ouros
+11/26/2024 9:20:01 PM: fe Pegou da área de descarte a carta 11 de Paus
+11/26/2024 9:20:01 PM: fa Colocou em seu próprio monte a carta 5 de Paus
+11/26/2024 9:20:01 PM: fe Colocou em seu próprio monte a carta 11 de Ouros
+11/26/2024 9:20:01 PM: fa Descartou a carta 7 de Ouros
+11/26/2024 9:20:01 PM: fe Pegou da área de descarte a carta 13 de Ouros
+11/26/2024 9:20:01 PM: fa Descartou a carta 11 de Espadas
+11/26/2024 9:20:01 PM: fe Pegou da área de descarte a carta 7 de Paus
+11/26/2024 9:20:01 PM: fa Descartou a carta 13 de Copas
+11/26/2024 9:20:01 PM: fe Colocou em seu próprio monte a carta 7 de Espadas
+11/26/2024 9:20:01 PM: fa Colocou em seu próprio monte a carta 5 de Paus
+11/26/2024 9:20:01 PM: fe Pegou da área de descarte a carta 4 de Copas
+11/26/2024 9:20:01 PM: fa Descartou a carta 10 de Paus
+11/26/2024 9:20:01 PM: fe Pegou da área de descarte a carta 2 de Ouros
+11/26/2024 9:20:01 PM: fa Descartou a carta 4 de Paus
+11/26/2024 9:20:01 PM: fe Pegou da área de descarte a carta 9 de Ouros
+11/26/2024 9:20:01 PM: fa Pegou da área de descarte a carta 10 de Ouros
+11/26/2024 9:20:01 PM: fe Pegou da área de descarte a carta 1 de Paus
+11/26/2024 9:20:01 PM: fa Descartou a carta 2 de Copas
+11/26/2024 9:20:01 PM: fe Pegou da área de descarte a carta 12 de Ouros
+11/26/2024 9:20:01 PM: fa Colocou em seu próprio monte a carta 10 de Ouros
+11/26/2024 9:20:01 PM: fe Pegou da área de descarte a carta 8 de Copas
+11/26/2024 9:20:01 PM: fa Descartou a carta 3 de Paus
+11/26/2024 9:20:01 PM: fe Descartou a carta 7 de Ouros
+11/26/2024 9:20:01 PM: fa Descartou a carta 9 de Paus
+11/26/2024 9:20:01 PM: fe Descartou a carta 12 de Paus
+11/26/2024 9:20:01 PM: fa Pegou da área de descarte a carta 13 de Paus
+11/26/2024 9:20:01 PM: fe Pegou da área de descarte a carta 2 de Ouros
+11/26/2024 9:20:01 PM: fa Descartou a carta 8 de Paus
+11/26/2024 9:20:01 PM: fe Pegou da área de descarte a carta 12 de Espadas
+11/26/2024 9:20:01 PM: fa Roubou o monte de a carta 12 de Ouros
+11/26/2024 9:20:01 PM: fe Descartou a carta 13 de Espadas
+11/26/2024 9:20:01 PM: fa Pegou da área de descarte a carta 3 de Espadas
+11/26/2024 9:20:01 PM: fe Pegou da área de descarte a carta 6 de Ouros
+11/26/2024 9:20:01 PM: fa Descartou a carta 12 de Paus
+11/26/2024 9:20:01 PM: fe Pegou da área de descarte a carta 7 de Paus
+11/26/2024 9:20:01 PM: fa Descartou a carta 1 de Espadas
+11/26/2024 9:20:01 PM: fe Colocou em seu próprio monte a carta 7 de Copas
+11/26/2024 9:20:01 PM: fa Pegou da área de descarte a carta 13 de Copas
+11/26/2024 9:20:01 PM: fe Pegou da área de descarte a carta 11 de Paus
+11/26/2024 9:20:01 PM: fa Descartou a carta 5 de Ouros
+11/26/2024 9:20:01 PM: fe Pegou da área de descarte a carta 9 de Espadas
+11/26/2024 9:20:01 PM: fa Pegou da área de descarte a carta 1 de Ouros
+11/26/2024 9:20:01 PM: fe Pegou da área de descarte a carta 4 de Ouros
+11/26/2024 9:20:01 PM: fa Pegou da área de descarte a carta 5 de Espadas
+11/26/2024 9:20:01 PM: fe Descartou a carta 7 de Copas
+11/26/2024 9:20:01 PM: fa Descartou a carta 9 de Paus
+11/26/2024 9:20:01 PM: fe Descartou a carta 13 de Ouros
+11/26/2024 9:20:01 PM: fa Descartou a carta 10 de Espadas
+11/26/2024 9:20:01 PM: fe Pegou da área de descarte a carta 8 de Copas
+11/26/2024 9:20:01 PM: fa Pegou da área de descarte a carta 13 de Espadas
+11/26/2024 9:20:01 PM: fe Descartou a carta 6 de Copas
+11/26/2024 9:20:01 PM: fa Roubou o monte de a carta 8 de Ouros
+11/26/2024 9:20:01 PM: fe Descartou a carta 1 de Copas
+11/26/2024 9:20:01 PM: fa Pegou da área de descarte a carta 9 de Espadas
+11/26/2024 9:20:01 PM: fe Pegou da área de descarte a carta 1 de Copas
+11/26/2024 9:20:01 PM: fa Pegou da área de descarte a carta 10 de Copas
+11/26/2024 9:20:01 PM: fe Descartou a carta 11 de Ouros
+11/26/2024 9:20:01 PM: fa Descartou a carta 3 de Ouros
+11/26/2024 9:20:01 PM: fe Pegou da área de descarte a carta 11 de Copas
+11/26/2024 9:20:01 PM: fa Pegou da área de descarte a carta 3 de Copas
+11/26/2024 9:20:01 PM: fe Descartou a carta 8 de Paus
+11/26/2024 9:20:01 PM: fa Descartou a carta 2 de Copas
+11/26/2024 9:20:01 PM: fe Descartou a carta 1 de Ouros
+11/26/2024 9:20:01 PM: fa Pegou da área de descarte a carta 8 de Espadas
+11/26/2024 9:20:01 PM: fe Pegou da área de descarte a carta 6 de Paus
+11/26/2024 9:20:01 PM: fa Pegou da área de descarte a carta 1 de Paus
+11/26/2024 9:20:01 PM: fe Descartou a carta 5 de Copas
+11/26/2024 9:20:01 PM: fa Roubou o monte de a carta 6 de Paus
+11/26/2024 9:20:01 PM: fe Pegou da área de descarte a carta 2 de Paus
+11/26/2024 9:20:01 PM: fa Descartou a carta 11 de Espadas
+11/26/2024 9:20:01 PM: fe Descartou a carta 4 de Copas
+11/26/2024 9:20:01 PM: fa Roubou o monte de a carta 2 de Espadas
+11/26/2024 9:20:01 PM: fe Descartou a carta 6 de Espadas
+11/26/2024 9:20:01 PM: fa Pegou da área de descarte a carta 7 de Espadas
+11/26/2024 9:20:01 PM: fe Colocou em seu próprio monte a carta 2 de Paus
+11/26/2024 9:20:01 PM: fa Descartou a carta 10 de Paus
+11/26/2024 9:20:01 PM: fe Descartou a carta 8 de Ouros
+11/26/2024 9:20:01 PM: fa Descartou a carta 3 de Espadas
+11/26/2024 9:20:01 PM: fe Pegou da área de descarte a carta 3 de Ouros
+11/26/2024 9:20:01 PM: fa Pegou da área de descarte a carta 12 de Copas
+11/26/2024 9:20:01 PM: fe Roubou o monte de a carta 12 de Espadas
+11/26/2024 9:20:01 PM: fa Pegou da área de descarte a carta 4 de Espadas
+11/26/2024 9:20:01 PM: fe Pegou da área de descarte a carta 6 de Ouros
+11/26/2024 9:20:01 PM: fa Roubou o monte de a carta 6 de Copas
+11/26/2024 9:20:01 PM: fe Pegou da área de descarte a carta 5 de Espadas
+Ranking Final da Partida:
+1° Lugar: fe com 55 cartas.
+2° Lugar: fa com 46 cartas.
+
+O vencedor é: fe com 55 cartas.
+
+Ranking da partida:
+fe: 55 cartas
+fa: 46 cartas
+Iniciando um novo jogo...
+O número de baralhos da partida é de: 2, totalizando 104 Cartas.
+A quantidade de jogares dessa partida é de: 2
+Jogador fe foi adicionado na partida.
+Jogador Lucas foi adicionado na partida.
+Monte de compras criado...
+Monte de compra embaralhado.
+Monte embaralhado...
+Jogador 1 iniciará a partida.
+11/26/2024 9:20:25 PM: fe Descartou a carta 4 de Copas
+11/26/2024 9:20:25 PM: Lucas Descartou a carta 10 de Paus
+11/26/2024 9:20:25 PM: fe Descartou a carta 6 de Ouros
+11/26/2024 9:20:25 PM: Lucas Descartou a carta 1 de Paus
+11/26/2024 9:20:25 PM: fe Descartou a carta 11 de Espadas
+11/26/2024 9:20:25 PM: Lucas Descartou a carta 7 de Ouros
+11/26/2024 9:20:25 PM: fe Descartou a carta 13 de Espadas
+11/26/2024 9:20:25 PM: Lucas Descartou a carta 12 de Espadas
+11/26/2024 9:20:25 PM: fe Pegou da área de descarte a carta 6 de Paus
+11/26/2024 9:20:25 PM: Lucas Descartou a carta 8 de Espadas
+11/26/2024 9:20:25 PM: fe Descartou a carta 3 de Espadas
+11/26/2024 9:20:25 PM: Lucas Pegou da área de descarte a carta 7 de Espadas
+11/26/2024 9:20:25 PM: fe Descartou a carta 9 de Espadas
+11/26/2024 9:20:25 PM: Lucas Descartou a carta 2 de Paus
+11/26/2024 9:20:25 PM: fe Pegou da área de descarte a carta 4 de Ouros
+11/26/2024 9:20:25 PM: Lucas Pegou da área de descarte a carta 11 de Paus
+11/26/2024 9:20:25 PM: fe Colocou em seu próprio monte a carta 4 de Espadas
+11/26/2024 9:20:25 PM: Lucas Pegou da área de descarte a carta 2 de Espadas
+11/26/2024 9:20:25 PM: fe Pegou da área de descarte a carta 10 de Paus
+11/26/2024 9:20:25 PM: Lucas Descartou a carta 5 de Ouros
+11/26/2024 9:20:25 PM: fe Roubou o monte de a carta 2 de Espadas
+11/26/2024 9:20:25 PM: Lucas Descartou a carta 7 de Espadas
+11/26/2024 9:20:25 PM: fe Roubou o monte de a carta 2 de Copas
+11/26/2024 9:20:25 PM: Lucas Descartou a carta 6 de Espadas
+11/26/2024 9:20:25 PM: fe Pegou da área de descarte a carta 3 de Ouros
+11/26/2024 9:20:25 PM: Lucas Roubou o monte de a carta 3 de Espadas
+11/26/2024 9:20:25 PM: fe Pegou da área de descarte a carta 9 de Ouros
+11/26/2024 9:20:25 PM: Lucas Descartou a carta 10 de Copas
+11/26/2024 9:20:25 PM: fe Descartou a carta 11 de Espadas
+11/26/2024 9:20:25 PM: Lucas Pegou da área de descarte a carta 13 de Ouros
+11/26/2024 9:20:25 PM: fe Pegou da área de descarte a carta 5 de Copas
+11/26/2024 9:20:25 PM: Lucas Pegou da área de descarte a carta 12 de Ouros
+11/26/2024 9:20:25 PM: fe Descartou a carta 4 de Ouros
+11/26/2024 9:20:25 PM: Lucas Descartou a carta 13 de Paus
+11/26/2024 9:20:25 PM: fe Pegou da área de descarte a carta 11 de Ouros
+11/26/2024 9:20:25 PM: Lucas Descartou a carta 3 de Paus
+11/26/2024 9:20:25 PM: fe Pegou da área de descarte a carta 1 de Ouros
+11/26/2024 9:20:25 PM: Lucas Pegou da área de descarte a carta 8 de Ouros
+11/26/2024 9:20:25 PM: fe Pegou da área de descarte a carta 10 de Ouros
+11/26/2024 9:20:25 PM: Lucas Descartou a carta 11 de Copas
+11/26/2024 9:20:25 PM: fe Pegou da área de descarte a carta 6 de Copas
+11/26/2024 9:20:25 PM: Lucas Colocou em seu próprio monte a carta 8 de Copas
+11/26/2024 9:20:25 PM: fe Pegou da área de descarte a carta 3 de Copas
+11/26/2024 9:20:25 PM: Lucas Pegou da área de descarte a carta 7 de Copas
+11/26/2024 9:20:25 PM: fe Descartou a carta 8 de Copas
+11/26/2024 9:20:25 PM: Lucas Pegou da área de descarte a carta 4 de Paus
+11/26/2024 9:20:25 PM: fe Descartou a carta 6 de Espadas
+11/26/2024 9:20:25 PM: Lucas Pegou da área de descarte a carta 8 de Espadas
+11/26/2024 9:20:25 PM: fe Descartou a carta 10 de Copas
+11/26/2024 9:20:25 PM: Lucas Descartou a carta 7 de Ouros
+11/26/2024 9:20:25 PM: fe Pegou da área de descarte a carta 13 de Copas
+11/26/2024 9:20:25 PM: Lucas Descartou a carta 12 de Paus
+11/26/2024 9:20:25 PM: fe Descartou a carta 1 de Copas
+11/26/2024 9:20:25 PM: Lucas Descartou a carta 5 de Ouros
+11/26/2024 9:20:25 PM: fe Pegou da área de descarte a carta 10 de Espadas
+11/26/2024 9:20:25 PM: Lucas Pegou da área de descarte a carta 12 de Paus
+11/26/2024 9:20:25 PM: fe Pegou da área de descarte a carta 7 de Paus
+11/26/2024 9:20:25 PM: Lucas Pegou da área de descarte a carta 1 de Paus
+11/26/2024 9:20:25 PM: fe Descartou a carta 12 de Copas
+11/26/2024 9:20:25 PM: Lucas Descartou a carta 9 de Ouros
+11/26/2024 9:20:25 PM: fe Pegou da área de descarte a carta 12 de Ouros
+11/26/2024 9:20:25 PM: Lucas Pegou da área de descarte a carta 5 de Paus
+11/26/2024 9:20:25 PM: fe Descartou a carta 2 de Ouros
+11/26/2024 9:20:25 PM: Lucas Descartou a carta 7 de Paus
+11/26/2024 9:20:25 PM: fe Descartou a carta 3 de Paus
+11/26/2024 9:20:25 PM: Lucas Colocou em seu próprio monte a carta 5 de Espadas
+11/26/2024 9:20:25 PM: fe Descartou a carta 4 de Copas
+11/26/2024 9:20:25 PM: Lucas Pegou da área de descarte a carta 11 de Copas
+11/26/2024 9:20:25 PM: fe Pegou da área de descarte a carta 3 de Ouros
+11/26/2024 9:20:25 PM: Lucas Pegou da área de descarte a carta 2 de Paus
+11/26/2024 9:20:25 PM: fe Descartou a carta 10 de Espadas
+11/26/2024 9:20:25 PM: Lucas Pegou da área de descarte a carta 9 de Copas
+11/26/2024 9:20:25 PM: fe Pegou da área de descarte a carta 7 de Copas
+11/26/2024 9:20:25 PM: Lucas Descartou a carta 11 de Ouros
+11/26/2024 9:20:25 PM: fe Descartou a carta 13 de Copas
+11/26/2024 9:20:25 PM: Lucas Colocou em seu próprio monte a carta 9 de Paus
+11/26/2024 9:20:25 PM: fe Descartou a carta 2 de Copas
+11/26/2024 9:20:25 PM: Lucas Colocou em seu próprio monte a carta 9 de Copas
+11/26/2024 9:20:25 PM: fe Roubou o monte de a carta 9 de Paus
+11/26/2024 9:20:25 PM: Lucas Pegou da área de descarte a carta 13 de Espadas
+11/26/2024 9:20:25 PM: fe Descartou a carta 8 de Paus
+11/26/2024 9:20:25 PM: Lucas Descartou a carta 1 de Espadas
+11/26/2024 9:20:25 PM: fe Pegou da área de descarte a carta 1 de Espadas
+11/26/2024 9:20:25 PM: Lucas Descartou a carta 5 de Paus
+11/26/2024 9:20:25 PM: fe Descartou a carta 3 de Copas
+11/26/2024 9:20:25 PM: Lucas Pegou da área de descarte a carta 5 de Espadas
+11/26/2024 9:20:25 PM: fe Descartou a carta 13 de Paus
+11/26/2024 9:20:25 PM: Lucas Pegou da área de descarte a carta 13 de Ouros
+11/26/2024 9:20:25 PM: fe Pegou da área de descarte a carta 2 de Ouros
+11/26/2024 9:20:25 PM: Lucas Descartou a carta 1 de Copas
+11/26/2024 9:20:25 PM: fe Pegou da área de descarte a carta 8 de Ouros
+11/26/2024 9:20:25 PM: Lucas Pegou da área de descarte a carta 4 de Paus
+11/26/2024 9:20:25 PM: fe Pegou da área de descarte a carta 1 de Ouros
+11/26/2024 9:20:25 PM: Lucas Descartou a carta 8 de Paus
+11/26/2024 9:20:25 PM: fe Roubou o monte de a carta 4 de Espadas
+11/26/2024 9:20:25 PM: Lucas Descartou a carta 9 de Espadas
+11/26/2024 9:20:25 PM: fe Pegou da área de descarte a carta 6 de Paus
+11/26/2024 9:20:25 PM: Lucas Pegou da área de descarte a carta 11 de Paus
+11/26/2024 9:20:25 PM: fe Descartou a carta 5 de Copas
+11/26/2024 9:20:25 PM: Lucas Descartou a carta 12 de Copas
+11/26/2024 9:20:25 PM: fe Colocou em seu próprio monte a carta 6 de Copas
+11/26/2024 9:20:25 PM: Lucas Pegou da área de descaIniciando um novo jogo...
+O número de baralhos da partida é de: 2, totalizando 104 Cartas.
+A quantidade de jogares dessa partida é de: 2 jogadores.
+Jogador Fa foi adicionado na partida.
+Jogador Fe foi adicionado na partida.
+Monte de compras criado...
+Monte de compra embaralhado.
+Monte embaralhado...
+Jogador 1 iniciará a partida.
+11/26/2024 10:00:02 PM: Fa Descartou a carta 12 de Ouros
+11/26/2024 10:00:02 PM: Fe Descartou a carta 4 de Espadas
+11/26/2024 10:00:02 PM: Fa Pegou da área de descarte a carta 12 de Paus
+11/26/2024 10:00:02 PM: Fe Descartou a carta 10 de Paus
+11/26/2024 10:00:02 PM: Fa Descartou a carta 3 de Espadas
+11/26/2024 10:00:02 PM: Fe Descartou a carta 1 de Paus
+11/26/2024 10:00:02 PM: Fa Descartou a carta 6 de Espadas
+11/26/2024 10:00:02 PM: Fe Descartou a carta 9 de Espadas
+11/26/2024 10:00:02 PM: Fa Pegou da área de descarte a carta 10 de Espadas
+11/26/2024 10:00:02 PM: Fe Pegou da área de descarte a carta 3 de Ouros
+11/26/2024 10:00:02 PM: Fa Descartou a carta 7 de Paus
+11/26/2024 10:00:02 PM: Fe Colocou em seu próprio monte a carta 3 de Paus
+11/26/2024 10:00:02 PM: Fa Descartou a carta 13 de Ouros
+11/26/2024 10:00:02 PM: Fe Descartou a carta 12 de Copas
+11/26/2024 10:00:02 PM: Fa Pegou da área de descarte a carta 9 de Ouros
+11/26/2024 10:00:02 PM: Fe Descartou a carta 10 de Ouros
+11/26/2024 10:00:02 PM: Fa Pegou da área de descarte a carta 1 de Espadas
+11/26/2024 10:00:02 PM: Fe Descartou a carta 8 de Ouros
+11/26/2024 10:00:02 PM: Fa Colocou em seu próprio monte a carta 1 de Ouros
+11/26/2024 10:00:02 PM: Fe Pegou da área de descarte a carta 6 de Paus
+11/26/2024 10:00:02 PM: Fa Descartou a carta 11 de Copas
+11/26/2024 10:00:02 PM: Fe Descartou a carta 2 de Paus
+11/26/2024 10:00:02 PM: Fa Pegou da área de descarte a carta 11 de Espadas
+11/26/2024 10:00:02 PM: Fe Pegou da área de descarte a carta 12 de Ouros
+11/26/2024 10:00:02 PM: Fa Descartou a carta 9 de Paus
+11/26/2024 10:00:02 PM: Fe Descartou a carta 3 de Copas
+11/26/2024 10:00:02 PM: Fa Descartou a carta 5 de Paus
+11/26/2024 10:00:02 PM: Fe Pegou da área de descarte a carta 5 de Ouros
+11/26/2024 10:00:02 PM: Fa Pegou da área de descarte a carta 7 de Ouros
+11/26/2024 10:00:02 PM: Fe Descartou a carta 11 de Copas
+11/26/2024 10:00:02 PM: Fa Descartou a carta 6 de Ouros
+11/26/2024 10:00:02 PM: Fe Pegou da área de descarte a carta 10 de Paus
+11/26/2024 10:00:02 PM: Fa Descartou a carta 5 de Copas
+11/26/2024 10:00:02 PM: Fe Descartou a carta 1 de Paus
+11/26/2024 10:00:02 PM: Fa Pegou da área de descarte a carta 1 de Espadas
+11/26/2024 10:00:02 PM: Fe Descartou a carta 7 de Espadas
+11/26/2024 10:00:02 PM: Fa Pegou da área de descarte a carta 2 de Espadas
+11/26/2024 10:00:02 PM: Fe Descartou a carta 1 de Copas
+11/26/2024 10:00:02 PM: Fa Pegou da área de descarte a carta 9 de Copas
+11/26/2024 10:00:02 PM: Fe Descartou a carta 2 de Copas
+11/26/2024 10:00:02 PM: Fa Pegou da área de descarte a carta 8 de Paus
+11/26/2024 10:00:02 PM: Fe Pegou da área de descarte a carta 5 de Copas
+11/26/2024 10:00:02 PM: Fa Pegou da área de descarte a carta 13 de Copas
+11/26/2024 10:00:02 PM: Fe Pegou da área de descarte a carta 6 de Copas
+11/26/2024 10:00:02 PM: Fa Pegou da área de descarte a carta 4 de Espadas
+11/26/2024 10:00:02 PM: Fe Pegou da área de descarte a carta 3 de Ouros
+11/26/2024 10:00:02 PM: Fa Descartou a carta 12 de Paus
+11/26/2024 10:00:02 PM: Fe Descartou a carta 8 de Copas
+11/26/2024 10:00:02 PM: Fa Descartou a carta 9 de Copas
+11/26/2024 10:00:02 PM: Fe Descartou a carta 6 de Paus
+11/26/2024 10:00:02 PM: Fa Pegou da área de descarte a carta 11 de Espadas
+11/26/2024 10:00:02 PM: Fe Pegou da área de descarte a carta 6 de Espadas
+11/26/2024 10:00:02 PM: Fa Descartou a carta 13 de Espadas
+11/26/2024 10:00:02 PM: Fe Descartou a carta 10 de Espadas
+11/26/2024 10:00:02 PM: Fa Pegou da área de descarte a carta 13 de Paus
+11/26/2024 10:00:02 PM: Fe Descartou a carta 11 de Ouros
+11/26/2024 10:00:02 PM: Fa Pegou da área de descarte a carta 7 de Copas
+11/26/2024 10:00:02 PM: Fe Descartou a carta 13 de Espadas
+11/26/2024 10:00:02 PM: Fa Pegou da área de descarte a carta 1 de Ouros
+11/26/2024 10:00:02 PM: Fe Roubou o monte inteiro de a carta 1 de Copas
+11/26/2024 10:00:02 PM: Fa Pegou da área de descarte a carta 9 de Espadas
+11/26/2024 10:00:02 PM: Fe Pegou da área de descarte a carta 2 de Paus
+11/26/2024 10:00:02 PM: Fa Descartou a carta 3 de Paus
+11/26/2024 10:00:02 PM: Fe Pegou da área de descarte a carta 12 de Espadas
+11/26/2024 10:00:02 PM: Fa Pegou da área de descarte a carta 8 de Copas
+11/26/2024 10:00:02 PM: Fe Pegou da área de descarte a carta 10 de Ouros
+11/26/2024 10:00:02 PM: Fa Descartou a carta 9 de Ouros
+11/26/2024 10:00:02 PM: Fe Descartou a carta 12 de Espadas
+11/26/2024 10:00:02 PM: Fa Pegou da área de descarte a carta 11 de Paus
+11/26/2024 10:00:02 PM: Fe Descartou a carta 4 de Paus
+11/26/2024 10:00:02 PM: Fa Descartou a carta 7 de Espadas
+11/26/2024 10:00:02 PM: Fe Descartou a carta 2 de Espadas
+11/26/2024 10:00:02 PM: Fa Pegou da área de descarte a carta 13 de Paus
+11/26/2024 10:00:02 PM: Fe Pegou da área de descarte a carta 12 de Copas
+11/26/2024 10:00:02 PM: Fa Descartou a carta 10 de Copas
+11/26/2024 10:00:02 PM: Fe Descartou a carta 5 de Ouros
+11/26/2024 10:00:02 PM: Fa Pegou da área de descarte a carta 3 de Copas
+11/26/2024 10:00:02 PM: Fe Pegou da área de descarte a carta 5 de Espadas
+11/26/2024 10:00:02 PM: Fa Pegou da área de descarte a carta 9 de Paus
+11/26/2024 10:00:02 PM: Fe Descartou a carta 8 de Espadas
+11/26/2024 10:00:02 PM: Fa Roubou o monte inteiro de a carta 5 de Espadas
+11/26/2024 10:00:02 PM: Fe Descartou a carta 13 de Ouros
+11/26/2024 10:00:02 PM: Fa Pegou da área de descarte a carta 8 de Espadas
+11/26/2024 10:00:02 PM: Fe Pegou da área de descarte a carta 4 de Copas
+11/26/2024 10:00:02 PM: Fa Pegou da área de descarte a carta 2 de Copas
+11/26/2024 10:00:02 PM: Fe Roubou o monte inteiro de a carta 2 de Ouros
+11/26/2024 10:00:02 PM: Fa Roubou o monte inteiro de a carta 2 de Ouros
+11/26/2024 10:00:02 PM: Fe Descartou a carta 11 de Paus
+11/26/2024 10:00:02 PM: Fa Descartou a carta 6 de Copas
+11/26/2024 10:00:02 PM: Fe Pegou da área de descarte a carta 6 de Ouros
+11/26/2024 10:00:02 PM: Fa Descartou a carta 4 de Ouros
+11/26/2024 10:00:02 PM: Fe Descartou a carta 5 de Paus
+11/26/2024 10:00:02 PM: Fa Pegou da área de descarte a carta 4 de Copas
+11/26/2024 10:00:02 PM: Fe Pegou da área de descarte a carta 11 de Ouros
+11/26/2024 10:00:02 PM: Fa Pegou da área de descarte a carta 10 de Copas
+11/26/2024 10:00:02 PM: Fe Descartou a carta 3 de Espadas
+11/26/2024 10:00:02 PM: Fa Pegou da área de descarte a carta 7 de Ouros
+11/26/2024 10:00:02 PM: Fe Roubou o monte inteiro de a carta 7 de Paus
+11/26/2024 10:00:02 PM: Fa Descartou a carta 4 de Ouros
+11/26/2024 10:00:02 PM: Fe Descartou a carta 8 de Paus
+11/26/2024 10:00:02 PM: Fa Roubou o monte inteiro de a carta 7 de Copas
+11/26/2024 10:00:02 PM: Fe Pegou da área de descarte a carta 4 de Paus
+11/26/2024 10:00:02 PM: Fa Pegou da área de descarte a carta 8 de Ouros
+11/26/2024 10:00:02 PM: Fe Pegou da área de descarte a carta 13 de Copas
+Ranking Final da Partida:
+1° Lugar: Fa com 98 cartas.
+2° Lugar: Fe com 4 cartas.
+
+O vencedor é: Fa com 98 cartas.
+
+Ranking da partida:
+Fa: 98 cartas
+Fe: 4 cartas
+Reiniciando o jogo...
+Monte de compras criado...
+Monte de compra embaralhado.
+Monte embaralhado...
+Monte do jogador Rouba_Monte.Jogador limpo.
+Monte do jogador Rouba_Monte.Jogador limpo.
+Jogador 1 iniciará a partida.
+11/26/2024 10:00:10 PM: Fa Descartou a carta 10 de Espadas
+11/26/2024 10:00:10 PM: Fe Descartou a carta 12 de Ouros
+11/26/2024 10:00:10 PM: Fa Descartou a carta 7 de Espadas
+11/26/2024 10:00:10 PM: Fe Descartou a carta 9 de Paus
+11/26/2024 10:00:10 PM: Fa Descartou a carta 4 de Copas
+11/26/2024 10:00:10 PM: Fe Descartou a carta 2 de Copas
+11/26/2024 10:00:10 PM: Fa Descartou a carta 11 de Paus
+11/26/2024 10:00:10 PM: Fe Descartou a carta 8 de Espadas
+11/26/2024 10:00:10 PM: Fa Descartou a carta 1 de Paus
+11/26/2024 10:00:10 PM: Fe Pegou da área de descarte a carta 2 de Espadas
+11/26/2024 10:00:10 PM: Fa Descartou a carta 6 de Ouros
+11/26/2024 10:00:10 PM: Fe Pegou da área de descarte a carta 7 de Copas
+11/26/2024 10:00:10 PM: Fa Pegou da área de descarte a carta 4 de Espadas
+11/26/2024 10:00:10 PM: Fe Pegou da área de descarte a carta 6 de Paus
+11/26/2024 10:00:10 PM: Fa Descartou a carta 7 de Ouros
+11/26/2024 10:00:10 PM: Fe Colocou em seu próprio monte a carta 6 de Espadas
+11/26/2024 10:00:10 PM: Fa Pegou da área de descarte a carta 8 de Copas
+11/26/2024 10:00:10 PM: Fe Pegou da área de descarte a carta 12 de Copas
+11/26/2024 10:00:10 PM: Fa Descartou a carta 5 de Paus
+11/26/2024 10:00:10 PM: Fe Pegou da área de descarte a carta 1 de Ouros
+11/26/2024 10:00:10 PM: Fa Descartou a carta 12 de Paus
+11/26/2024 10:00:10 PM: Fe Descartou a carta 6 de Espadas
+11/26/2024 10:00:10 PM: Fa Pegou da área de descarte a carta 7 de Espadas
+11/26/2024 10:00:10 PM: Fe Roubou o monte inteiro de a carta 7 de Ouros
+11/26/2024 10:00:10 PM: Fa Pegou da área de descarte a carta 9 de Ouros
+11/26/2024 10:00:10 PM: Fe Pegou da área de descarte a carta 12 de Paus
+11/26/2024 10:00:10 PM: Fa Descartou a carta 3 de Paus
+11/26/2024 10:00:10 PM: Fe Descartou a carta 8 de Paus
+11/26/2024 10:00:10 PM: Fa Pegou da área de descarte a carta 10 de Copas
+11/26/2024 10:00:10 PM: Fe Descartou a carta 2 de Espadas
+11/26/2024 10:00:10 PM: Fa Pegou da área de descarte a carta 2 de Paus
+11/26/2024 10:00:10 PM: Fe Colocou em seu próprio monte a carta 12 de Ouros
+11/26/2024 10:00:10 PM: Fa Descartou a carta 7 de Paus
+11/26/2024 10:00:10 PM: Fe Descartou a carta 10 de Paus
+11/26/2024 10:00:10 PM: Fa Pegou da área de descarte a carta 3 de Copas
+11/26/2024 10:00:10 PM: Fe Descartou a carta 1 de Paus
+11/26/2024 10:00:10 PM: Fa Descartou a carta 13 de Copas
+11/26/2024 10:00:10 PM: Fe Pegou da área de descarte a carta 11 de Ouros
+11/26/2024 10:00:10 PM: Fa Descartou a carta 12 de Espadas
+11/26/2024 10:00:10 PM: Fe Pegou da área de descarte a carta 10 de Copas
+11/26/2024 10:00:10 PM: Fa Descartou a carta 9 de Espadas
+11/26/2024 10:00:10 PM: Fe Descartou a carta 2 de Ouros
+11/26/2024 10:00:10 PM: Fa Descartou a carta 4 de Paus
+11/26/2024 10:00:10 PM: Fe Pegou da área de descarte a carta 6 de Paus
+11/26/2024 10:00:10 PM: Fa Pegou da área de descarte a carta 4 de Copas
+11/26/2024 10:00:10 PM: Fe Pegou da área de descarte a carta 13 de Paus
+11/26/2024 10:00:10 PM: Fa Colocou em seu próprio monte a carta 4 de Espadas
+11/26/2024 10:00:10 PM: Fe Pegou da área de descarte a carta 8 de Paus
+11/26/2024 10:00:10 PM: Fa Descartou a carta 11 de Espadas
+11/26/2024 10:00:10 PM: Fe Pegou da área de descarte a carta 9 de Espadas
+11/26/2024 10:00:10 PM: Fa Descartou a carta 3 de Paus
+11/26/2024 10:00:10 PM: Fe Pegou da área de descarte a carta 5 de Ouros
+11/26/2024 10:00:10 PM: Fa Descartou a carta 9 de Ouros
+11/26/2024 10:00:10 PM: Fe Colocou em seu próprio monte a carta 5 de Copas
+11/26/2024 10:00:10 PM: Fa Descartou a carta 10 de Ouros
+11/26/2024 10:00:10 PM: Fe Descartou a carta 6 de Copas
+11/26/2024 10:00:10 PM: Fa Descartou a carta 8 de Copas
+11/26/2024 10:00:10 PM: Fe Pegou da área de descarte a carta 1 de Espadas
+11/26/2024 10:00:10 PM: Fa Roubou o monte inteiro de a carta 1 de Copas
+11/26/2024 10:00:10 PM: Fe Pegou da área de descarte a carta 9 de Paus
+11/26/2024 10:00:10 PM: Fa Descartou a carta 13 de Ouros
+11/26/2024 10:00:10 PM: Fe Descartou a carta 4 de Ouros
+11/26/2024 10:00:10 PM: Fa Colocou em seu próprio monte a carta 1 de Espadas
+11/26/2024 10:00:10 PM: Fe Pegou da área de descarte a carta 2 de Ouros
+11/26/2024 10:00:10 PM: Fa Pegou da área de descarte a carta 4 de Paus
+11/26/2024 10:00:10 PM: Fe Pegou da área de descarte a carta 8 de Ouros
+11/26/2024 10:00:10 PM: Fa Descartou a carta 1 de Ouros
+11/26/2024 10:00:10 PM: Fe Pegou da área de descarte a carta 10 de Ouros
+11/26/2024 10:00:10 PM: Fa Descartou a carta 5 de Copas
+11/26/2024 10:00:10 PM: Fe Pegou da área de descarte a carta 11 de Copas
+11/26/2024 10:00:10 PM: Fa Descartou a carta 10 de Espadas
+11/26/2024 10:00:10 PM: Fe Colocou em seu próprio monte a carta 11 de Ouros
+11/26/2024 10:00:10 PM: Fa Pegou da área de descarte a carta 13 de Ouros
+11/26/2024 10:00:10 PM: Fe Descartou a carta 9 de Copas
+11/26/2024 10:00:10 PM: Fa Pegou da área de descarte a carta 7 de Paus
+11/26/2024 10:00:10 PM: Fe Colocou em seu próprio monte a carta 11 de Paus
+11/26/2024 10:00:10 PM: Fa Pegou da área de descarte a carta 3 de Ouros
+11/26/2024 10:00:10 PM: Fe Pegou da área de descarte a carta 1 de Copas
+11/26/2024 10:00:10 PM: Fa Pegou da área de descarte a carta 6 de Ouros
+11/26/2024 10:00:10 PM: Fe Descartou a carta 8 de Espadas
+11/26/2024 10:00:10 PM: Fa Pegou da área de descarte a carta 10 de Paus
+11/26/2024 10:00:10 PM: Fe Descartou a carta 11 de Copas
+11/26/2024 10:00:10 PM: Fa Descartou a carta 7 de Copas
+11/26/2024 10:00:10 PM: Fe Descartou a carta 13 de Espadas
+11/26/2024 10:00:10 PM: Fa Pegou da área de descarte a carta 12 de Espadas
+11/26/2024 10:00:10 PM: Fe Pegou da área de descarte a carta 5 de Espadas
+11/26/2024 10:00:10 PM: Fa Descartou a carta 3 de Copas
+11/26/2024 10:00:10 PM: Fe Colocou em seu próprio monte a carta 5 de Espadas
+11/26/2024 10:00:10 PM: Fa Pegou da área de descarte a carta 13 de Espadas
+11/26/2024 10:00:10 PM: Fe Pegou da área de descarte a carta 9 de Copas
+11/26/2024 10:00:10 PM: Fa Descartou a carta 5 de Ouros
+11/26/2024 10:00:10 PM: Fe Descartou a carta 6 de Copas
+11/26/2024 10:00:10 PM: Fa Pegou da área de descarte a carta 11 de Espadas
+11/26/2024 10:00:10 PM: Fe Descartou a carta 2 de Copas
+11/26/2024 10:00:10 PM: Fa Descartou a carta 12 de Copas
+11/26/2024 10:00:10 PM: Fe Pegou da área de descarte a carta 3 de Espadas
+11/26/2024 10:00:10 PM: Fa Descartou a carta 4 de Ouros
+11/26/2024 10:00:10 PM: Fe Pegou da área de descarte a carta 5 de Paus
+11/26/2024 10:00:10 PM: Fa Descartou a carta 3 de Espadas
+11/26/2024 10:00:10 PM: Fe Pegou da área de descarte a carta 3 de Ouros
+11/26/2024 10:00:10 PM: Fa Descartou a carta 13 de Paus
+11/26/2024 10:00:10 PM: Fe Pegou da área de descarte a carta 13 de Copas
+11/26/2024 10:00:10 PM: Fa Pegou da área de descarte a carta 8 de Ouros
+11/26/2024 10:00:10 PM: Fe Pegou da área de descarte a carta 2 de Paus
+Ranking Final da Partida:
+1° Lugar: Fa com 71 cartas.
+2° Lugar: Fe com 29 cartas.
+
+O vencedor é: Fa com 71 cartas.
+
+Ranking da partida:
+Fa: 71 cartas
+Fe: 29 cartas
+Procurando histórico do jogador Fa
+Partida: 1 Posição: 1
+Partida: 2 Posição: 1
+Procurando histórico do jogador Fe
+Partida: 1 Posição: 2
+Partida: 2 Posição: 2
+Iniciando um novo jogo...
+O número de baralhos da partida é de: 2, totalizando 104 Cartas.
+A quantidade de jogares dessa partida é de: 2 jogadores.
+Jogador Fa foi adicionado na partida.
+Jogador Lu foi adicionado na partida.
+Monte de compras criado...
+Monte de compra embaralhado.
+Monte embaralhado...
+Jogador 1 iniciará a partida.
+11/26/2024 10:00:35 PM: Fa Descartou a carta 4 de Espadas
+11/26/2024 10:00:35 PM: Lu Descartou a carta 13 de Ouros
+11/26/2024 10:00:35 PM: Fa Descartou a carta 9 de Paus
+11/26/2024 10:00:35 PM: Lu Descartou a carta 8 de Paus
+11/26/2024 10:00:35 PM: Fa Pegou da área de descarte a carta 13 de Espadas
+11/26/2024 10:00:35 PM: Lu Pegou da área de descarte a carta 9 de Copas
+11/26/2024 10:00:35 PM: Fa Descartou a carta 1 de Espadas
+11/26/2024 10:00:35 PM: Lu Descartou a carta 3 de Ouros
+11/26/2024 10:00:35 PM: Fa Descartou a carta 7 de Copas
+11/26/2024 10:00:35 PM: Lu Roubou o monte inteiro de a carta 13 de Paus
+11/26/2024 10:00:35 PM: Fa Pegou da área de descarte a carta 4 de Espadas
+11/26/2024 10:00:35 PM: Lu Descartou a carta 10 de Ouros
+11/26/2024 10:00:35 PM: Fa Descartou a carta 5 de Paus
+11/26/2024 10:00:35 PM: Lu Descartou a carta 11 de Copas
+11/26/2024 10:00:35 PM: Fa Pegou da área de descarte a carta 1 de Espadas
+11/26/2024 10:00:35 PM: Lu Pegou da área de descarte a carta 5 de Espadas
+11/26/2024 10:00:35 PM: Fa Pegou da área de descarte a carta 3 de Paus
+11/26/2024 10:00:35 PM: Lu Colocou em seu próprio monte a carta 5 de Ouros
+11/26/2024 10:00:35 PM: Fa Descartou a carta 6 de Copas
+11/26/2024 10:00:35 PM: Lu Pegou da área de descarte a carta 10 de Espadas
+11/26/2024 10:00:35 PM: Fa Pegou da área de descarte a carta 8 de Espadas
+11/26/2024 10:00:35 PM: Lu Descartou a carta 13 de Copas
+11/26/2024 10:00:35 PM: Fa Descartou a carta 1 de Ouros
+11/26/2024 10:00:35 PM: Lu Roubou o monte inteiro de a carta 8 de Espadas
+11/26/2024 10:00:35 PM: Fa Descartou a carta 5 de Paus
+11/26/2024 10:00:35 PM: Lu Pegou da área de descarte a carta 13 de Espadas
+11/26/2024 10:00:35 PM: Fa Pegou da área de descarte a carta 1 de Ouros
+11/26/2024 10:00:35 PM: Lu Pegou da área de descarte a carta 6 de Copas
+11/26/2024 10:00:35 PM: Fa Descartou a carta 9 de Espadas
+11/26/2024 10:00:35 PM: Lu Pegou da área de descarte a carta 7 de Ouros
+11/26/2024 10:00:35 PM: Fa Descartou a carta 4 de Copas
+11/26/2024 10:00:35 PM: Lu Descartou a carta 13 de Copas
+11/26/2024 10:00:35 PM: Fa Pegou da área de descarte a carta 4 de Ouros
+11/26/2024 10:00:35 PM: Lu Descartou a carta 3 de Copas
+11/26/2024 10:00:35 PM: Fa Descartou a carta 10 de Copas
+11/26/2024 10:00:35 PM: Lu Descartou a carta 12 de Espadas
+11/26/2024 10:00:35 PM: Fa Pegou da área de descarte a carta 3 de Copas
+11/26/2024 10:00:35 PM: Lu Colocou em seu próprio monte a carta 7 de Espadas
+11/26/2024 10:00:35 PM: Fa Descartou a carta 6 de Espadas
+11/26/2024 10:00:35 PM: Lu Pegou da área de descarte a carta 11 de Ouros
+11/26/2024 10:00:35 PM: Fa Pegou da área de descarte a carta 6 de Paus
+11/26/2024 10:00:35 PM: Lu Descartou a carta 3 de Paus
+11/26/2024 10:00:35 PM: Fa Roubou o monte inteiro de a carta 11 de Espadas
+11/26/2024 10:00:35 PM: Lu Descartou a carta 4 de Ouros
+11/26/2024 10:00:35 PM: Fa Descartou a carta 8 de Ouros
+11/26/2024 10:00:35 PM: Lu Pegou da área de descarte a carta 8 de Copas
+11/26/2024 10:00:35 PM: Fa Descartou a carta 7 de Copas
+11/26/2024 10:00:35 PM: Lu Descartou a carta 2 de Espadas
+11/26/2024 10:00:35 PM: Fa Colocou em seu próprio monte a carta 11 de Ouros
+11/26/2024 10:00:35 PM: Lu Pegou da área de descarte a carta 2 de Copas
+11/26/2024 10:00:35 PM: Fa Pegou da área de descarte a carta 9 de Copas
+11/26/2024 10:00:35 PM: Lu Descartou a carta 8 de Copas
+11/26/2024 10:00:35 PM: Fa Pegou da área de descarte a carta 13 de Ouros
+11/26/2024 10:00:35 PM: Lu Pegou da área de descarte a carta 10 de Paus
+11/26/2024 10:00:35 PM: Fa Descartou a carta 2 de Espadas
+11/26/2024 10:00:35 PM: Lu Descartou a carta 6 de Espadas
+11/26/2024 10:00:35 PM: Fa Descartou a carta 1 de Paus
+11/26/2024 10:00:35 PM: Lu Pegou da área de descarte a carta 1 de Copas
+11/26/2024 10:00:35 PM: Fa Pegou da área de descarte a carta 3 de Espadas
+11/26/2024 10:00:35 PM: Lu Colocou em seu próprio monte a carta 1 de Copas
+11/26/2024 10:00:35 PM: Fa Descartou a carta 10 de Ouros
+11/26/2024 10:00:35 PM: Lu Descartou a carta 11 de Copas
+11/26/2024 10:00:35 PM: Fa Descartou a carta 9 de Ouros
+11/26/2024 10:00:35 PM: Lu Colocou em seu próprio monte a carta 1 de Paus
+11/26/2024 10:00:35 PM: Fa Pegou da área de descarte a carta 10 de Paus
+11/26/2024 10:00:35 PM: Lu Pegou da área de descarte a carta 5 de Ouros
+11/26/2024 10:00:35 PM: Fa Pegou da área de descarte a carta 9 de Paus
+11/26/2024 10:00:35 PM: Lu Pegou da área de descarte a carta 2 de Ouros
+11/26/2024 10:00:35 PM: Fa Roubou o monte inteiro de a carta 2 de Copas
+11/26/2024 10:00:35 PM: Lu Pegou da área de descarte a carta 4 de Copas
+11/26/2024 10:00:35 PM: Fa Descartou a carta 5 de Copas
+11/26/2024 10:00:35 PM: Lu Descartou a carta 10 de Espadas
+11/26/2024 10:00:35 PM: Fa Descartou a carta 13 de Paus
+11/26/2024 10:00:35 PM: Lu Pegou da área de descarte a carta 11 de Espadas
+11/26/2024 10:00:35 PM: Fa Pegou da área de descarte a carta 6 de Ouros
+11/26/2024 10:00:35 PM: Lu Pegou da área de descarte a carta 7 de Espadas
+11/26/2024 10:00:35 PM: Fa Descartou a carta 3 de Ouros
+11/26/2024 10:00:35 PM: Lu Pegou da área de descarte a carta 12 de Copas
+11/26/2024 10:00:35 PM: Fa Descartou a carta 4 de Paus
+11/26/2024 10:00:35 PM: Lu Colocou em seu próprio monte a carta 12 de Copas
+11/26/2024 10:00:35 PM: Fa Pegou da área de descarte a carta 10 de Copas
+11/26/2024 10:00:35 PM: Lu Descartou a carta 2 de Ouros
+11/26/2024 10:00:35 PM: Fa Descartou a carta 9 de Ouros
+11/26/2024 10:00:35 PM: Lu Pegou da área de descarte a carta 8 de Ouros
+11/26/2024 10:00:35 PM: Fa Descartou a carta 12 de Ouros
+11/26/2024 10:00:35 PM: Lu Pegou da área de descarte a carta 9 de Espadas
+11/26/2024 10:00:35 PM: Fa Pegou da área de descarte a carta 2 de Paus
+11/26/2024 10:00:35 PM: Lu Descartou a carta 11 de Paus
+11/26/2024 10:00:35 PM: Fa Pegou da área de descarte a carta 3 de Espadas
+11/26/2024 10:00:35 PM: Lu Pegou da área de descarte a carta 5 de Copas
+11/26/2024 10:00:35 PM: Fa Descartou a carta 6 de Paus
+11/26/2024 10:00:35 PM: Lu Descartou a carta 2 de Paus
+11/26/2024 10:00:35 PM: Fa Roubou o monte inteiro de a carta 5 de Espadas
+11/26/2024 10:00:35 PM: Lu Descartou a carta 8 de Paus
+11/26/2024 10:00:35 PM: Fa Descartou a carta 7 de Paus
+11/26/2024 10:00:35 PM: Lu Pegou da área de descarte a carta Iniciando um novo jogo...
+O número de baralhos da partida é de: 2, totalizando 104 Cartas.
+A quantidade de jogares dessa partida é de: 2 jogadores.
+Jogador Fa foi adicionado na partida.
+Jogador fe foi adicionado na partida.
+Monte de compras criado...
+Monte de compra embaralhado.
+Monte embaralhado...
+Jogador 1 iniciará a partida.
+11/26/2024 10:08:03 PM: Fa Descartou a carta 1 de Copas
+11/26/2024 10:08:03 PM: fe Descartou a carta 11 de Paus
+11/26/2024 10:08:03 PM: Fa Descartou a carta 9 de Ouros
+11/26/2024 10:08:03 PM: fe Descartou a carta 8 de Ouros
+11/26/2024 10:08:03 PM: Fa Pegou da área de descarte a carta 1 de Paus
+11/26/2024 10:08:03 PM: fe Descartou a carta 13 de Ouros
+11/26/2024 10:08:03 PM: Fa Descartou a carta 10 de Paus
+11/26/2024 10:08:03 PM: fe Descartou a carta 6 de Ouros
+11/26/2024 10:08:03 PM: Fa Descartou a carta 2 de Ouros
+11/26/2024 10:08:03 PM: fe Pegou da área de descarte a carta 11 de Ouros
+11/26/2024 10:08:03 PM: Fa Descartou a carta 3 de Copas
+11/26/2024 10:08:03 PM: fe Pegou da área de descarte a carta 3 de Paus
+11/26/2024 10:08:03 PM: Fa Pegou da área de descarte a carta 2 de Paus
+11/26/2024 10:08:03 PM: fe Descartou a carta 7 de Copas
+11/26/2024 10:08:03 PM: Fa Descartou a carta 1 de Ouros
+11/26/2024 10:08:03 PM: fe Roubou o monte inteiro de a carta 2 de Copas
+11/26/2024 10:08:03 PM: Fa Descartou a carta 4 de Paus
+11/26/2024 10:08:03 PM: fe Pegou da área de descarte a carta 7 de Paus
+11/26/2024 10:08:03 PM: Fa Pegou da área de descarte a carta 6 de Paus
+11/26/2024 10:08:03 PM: fe Descartou a carta 5 de Paus
+11/26/2024 10:08:03 PM: Fa Pegou da área de descarte a carta 9 de Copas
+11/26/2024 10:08:03 PM: fe Descartou a carta 12 de Copas
+11/26/2024 10:08:03 PM: Fa Descartou a carta 3 de Paus
+11/26/2024 10:08:03 PM: fe Pegou da área de descarte a carta 13 de Copas
+11/26/2024 10:08:03 PM: Fa Pegou da área de descarte a carta 4 de Copas
+11/26/2024 10:08:03 PM: fe Pegou da área de descarte a carta 12 de Espadas
+11/26/2024 10:08:03 PM: Fa Pegou da área de descarte a carta 10 de Paus
+11/26/2024 10:08:03 PM: fe Descartou a carta 13 de Ouros
+11/26/2024 10:08:03 PM: Fa Pegou da área de descarte a carta 5 de Ouros
+11/26/2024 10:08:03 PM: fe Descartou a carta 4 de Ouros
+11/26/2024 10:08:03 PM: Fa Pegou da área de descarte a carta 3 de Ouros
+11/26/2024 10:08:03 PM: fe Pegou da área de descarte a carta 1 de Copas
+11/26/2024 10:08:03 PM: Fa Descartou a carta 7 de Ouros
+11/26/2024 10:08:03 PM: fe Pegou da área de descarte a carta 8 de Copas
+11/26/2024 10:08:03 PM: Fa Descartou a carta 5 de Ouros
+11/26/2024 10:08:03 PM: fe Pegou da área de descarte a carta 13 de Copas
+11/26/2024 10:08:03 PM: Fa Descartou a carta 2 de Espadas
+11/26/2024 10:08:03 PM: fe Descartou a carta 8 de Copas
+11/26/2024 10:08:03 PM: Fa Descartou a carta 6 de Copas
+11/26/2024 10:08:03 PM: fe Descartou a carta 1 de Espadas
+11/26/2024 10:08:03 PM: Fa Roubou o monte inteiro de a carta 13 de Paus
+11/26/2024 10:08:03 PM: fe Pegou da área de descarte a carta 4 de Copas
+11/26/2024 10:08:03 PM: Fa Pegou da área de descarte a carta 6 de Copas
+11/26/2024 10:08:03 PM: fe Pegou da área de descarte a carta 1 de Espadas
+11/26/2024 10:08:03 PM: Fa Descartou a carta 9 de Ouros
+11/26/2024 10:08:03 PM: fe Descartou a carta 10 de Copas
+11/26/2024 10:08:03 PM: Fa Pegou da área de descarte a carta 10 de Copas
+11/26/2024 10:08:03 PM: fe Descartou a carta 6 de Ouros
+11/26/2024 10:08:03 PM: Fa Pegou da área de descarte a carta 6 de Paus
+11/26/2024 10:08:03 PM: fe Pegou da área de descarte a carta 5 de Copas
+11/26/2024 10:08:03 PM: Fa Roubou o monte inteiro de a carta 5 de Espadas
+11/26/2024 10:08:03 PM: fe Pegou da área de descarte a carta 8 de Ouros
+11/26/2024 10:08:03 PM: Fa Descartou a carta 1 de Ouros
+11/26/2024 10:08:03 PM: fe Descartou a carta 12 de Espadas
+11/26/2024 10:08:03 PM: Fa Descartou a carta 13 de Espadas
+11/26/2024 10:08:03 PM: fe Descartou a carta 3 de Espadas
+11/26/2024 10:08:03 PM: Fa Descartou a carta 10 de Ouros
+11/26/2024 10:08:03 PM: fe Descartou a carta 11 de Copas
+11/26/2024 10:08:03 PM: Fa Colocou em seu próprio monte a carta 5 de Copas
+11/26/2024 10:08:03 PM: fe Pegou da área de descarte a carta 2 de Copas
+11/26/2024 10:08:03 PM: Fa Descartou a carta 4 de Paus
+11/26/2024 10:08:03 PM: fe Pegou da área de descarte a carta 9 de Paus
+11/26/2024 10:08:03 PM: Fa Descartou a carta 2 de Ouros
+11/26/2024 10:08:03 PM: fe Pegou da área de descarte a carta 11 de Espadas
+11/26/2024 10:08:03 PM: Fa Roubou o monte inteiro de a carta 11 de Paus
+11/26/2024 10:08:03 PM: fe Pegou da área de descarte a carta 3 de Ouros
+11/26/2024 10:08:03 PM: Fa Pegou da área de descarte a carta 10 de Espadas
+11/26/2024 10:08:03 PM: fe Descartou a carta 9 de Paus
+11/26/2024 10:08:03 PM: Fa Roubou o monte inteiro de a carta 3 de Espadas
+11/26/2024 10:08:03 PM: fe Pegou da área de descarte a carta 2 de Paus
+11/26/2024 10:08:03 PM: Fa Pegou da área de descarte a carta 13 de Espadas
+11/26/2024 10:08:03 PM: fe Pegou da área de descarte a carta 9 de Espadas
+11/26/2024 10:08:03 PM: Fa Pegou da área de descarte a carta 1 de Paus
+11/26/2024 10:08:03 PM: fe Descartou a carta 5 de Paus
+11/26/2024 10:08:03 PM: Fa Pegou da área de descarte a carta 7 de Copas
+11/26/2024 10:08:03 PM: fe Descartou a carta 6 de Espadas
+11/26/2024 10:08:03 PM: Fa Descartou a carta 8 de Paus
+11/26/2024 10:08:03 PM: fe Pegou da área de descarte a carta 12 de Ouros
+11/26/2024 10:08:03 PM: Fa Descartou a carta 3 de Copas
+11/26/2024 10:08:03 PM: fe Roubou o monte inteiro de a carta 7 de Ouros
+11/26/2024 10:08:03 PM: Fa Pegou da área de descarte a carta 6 de Espadas
+11/26/2024 10:08:03 PM: fe Colocou em seu próprio monte a carta 7 de Espadas
+11/26/2024 10:08:03 PM: Fa Descartou a carta 11 de Ouros
+11/26/2024 10:08:03 PM: fe Descartou a carta 13 de Paus
+11/26/2024 10:08:03 PM: Fa Pegou da área de descarte a carta 11 de Copas
+11/26/2024 10:08:03 PM: fe Descartou a carta 12 de Paus
+11/26/2024 10:08:03 PM: Fa Pegou da área de descarte a carta 12 de Ouros
+11/26/2024 10:08:03 PM: fe Pegou da área de descarte a carta 8 de Paus
+11/26/2024 10:08:03 PM: Fa Roubou o monte inteiro de a carta 8 de Espadas
+11/26/2024 10:08:03 PM: fe Pegou da área de descarte a carta 4 de Espadas
+11/26/2024 10:08:03 PM: Fa Descartou a carta 7 de Espadas
+11/26/2024 10:08:03 PM: fe Roubou o monte inteiro de a carta 8 de Espadas
+11/26/2024 10:08:03 PM: Fa Descartou a carta 4 de Espadas
+11/26/2024 10:08:03 PM: fe Pegou da área de descarte a carta 5 de Espadas
+11/26/2024 10:08:03 PM: Fa Descartou a carta 12 de Copas
+11/26/2024 10:08:03 PM: fe Pegou da área de descarte a carta 12 de Paus
+11/26/2024 10:08:03 PM: Fa Descartou a carta 2 de Espadas
+11/26/2024 10:08:03 PM: fe Descartou a carta 9 de Copas
+11/26/2024 10:08:03 PM: Fa Pegou da área de descarte a carta 9 de Espadas
+11/26/2024 10:08:03 PM: fe Descartou a carta 10 de Ouros
+11/26/2024 10:08:03 PM: Fa Pegou da área de descarte a carta 7 de Paus
+11/26/2024 10:08:03 PM: fe Pegou da área de descarte a carta 4 de Ouros
+11/26/2024 10:08:03 PM: Fa Descartou a carta 11 de Espadas
+11/26/2024 10:08:03 PM: fe Pegou da área de descarte a carta 10 de Espadas
+Ranking Final da Partida:
+1° Lugar: fe com 96 cartas.
+2° Lugar: Fa com 4 cartas.
+
+O vencedor é: fe com 96 cartas.
+
+Ranking da partida:
+fe: 96 cartas
+Fa: 4 cartas
+Iniciando um novo jogo...
+O número de baralhos da partida é de: 2, totalizando 104 Cartas.
+A quantidade de jogares dessa partida é de: 2 jogadores.
+Jogador fe foi adicionado na partida.
+Jogador Lucas foi adicionado na partida.
+Monte de compras criado...
+Monte de compra embaralhado.
+Monte embaralhado...
+Jogador 1 iniciará a partida.
+11/26/2024 10:08:15 PM: fe Descartou a carta 9 de Ouros
+11/26/2024 10:08:15 PM: Lucas Descartou a carta 10 de Paus
+11/26/2024 10:08:15 PM: fe Descartou a carta 4 de Espadas
+11/26/2024 10:08:15 PM: Lucas Descartou a carta 2 de Paus
+11/26/2024 10:08:15 PM: fe Descartou a carta 5 de Paus
+11/26/2024 10:08:15 PM: Lucas Descartou a carta 11 de Ouros
+11/26/2024 10:08:15 PM: fe Pegou da área de descarte a carta 5 de Espadas
+11/26/2024 10:08:15 PM: Lucas Pegou da área de descarte a carta 2 de Copas
+11/26/2024 10:08:15 PM: fe Descartou a carta 7 de Ouros
+11/26/2024 10:08:15 PM: Lucas Descartou a carta 8 de Espadas
+11/26/2024 10:08:15 PM: fe Pegou da área de descarte a carta 8 de Ouros
+11/26/2024 10:08:15 PM: Lucas Descartou a carta 6 de Ouros
+11/26/2024 10:08:15 PM: fe Descartou a carta 13 de Copas
+11/26/2024 10:08:15 PM: Lucas Roubou o monte inteiro de a carta 8 de Espadas
+11/26/2024 10:08:15 PM: fe Pegou da área de descarte a carta 13 de Espadas
+11/26/2024 10:08:15 PM: Lucas Pegou da área de descarte a carta 4 de Espadas
+11/26/2024 10:08:15 PM: fe Descartou a carta 1 de Copas
+11/26/2024 10:08:15 PM: Lucas Pegou da área de descarte a carta 1 de Paus
+11/26/2024 10:08:15 PM: fe Pegou da área de descarte a carta 10 de Ouros
+11/26/2024 10:08:15 PM: Lucas Pegou da área de descarte a carta 9 de Espadas
+11/26/2024 10:08:15 PM: fe Descartou a carta 13 de Paus
+11/26/2024 10:08:15 PM: Lucas Roubou o monte inteiro de a carta 10 de Ouros
+11/26/2024 10:08:15 PM: fe Pegou da área de descarte a carta 7 de Espadas
+11/26/2024 10:08:15 PM: Lucas Descartou a carta 9 de Paus
+11/26/2024 10:08:15 PM: fe Descartou a carta 12 de Paus
+11/26/2024 10:08:15 PM: Lucas Pegou da área de descarte a carta 12 de Espadas
+11/26/2024 10:08:15 PM: fe Pegou da área de descarte a carta 9 de Copas
+11/26/2024 10:08:15 PM: Lucas Colocou em seu próprio monte a carta 12 de Ouros
+11/26/2024 10:08:15 PM: fe Descartou a carta 7 de Copas
+11/26/2024 10:08:15 PM: Lucas Descartou a carta 2 de Paus
+11/26/2024 10:08:15 PM: fe Pegou da área de descarte a carta 7 de Paus
+11/26/2024 10:08:15 PM: Lucas Descartou a carta 1 de Espadas
+11/26/2024 10:08:15 PM: fe Descartou a carta 3 de Paus
+11/26/2024 10:08:15 PM: Lucas Pegou da área de descarte a carta 6 de Espadas
+11/26/2024 10:08:15 PM: fe Pegou da área de descarte a carta 13 de Paus
+11/26/2024 10:08:15 PM: Lucas Pegou da área de descarte a carta 1 de Copas
+11/26/2024 10:08:15 PM: fe Descartou a carta 6 de Ouros
+11/26/2024 10:08:15 PM: Lucas Descartou a carta 8 de Paus
+11/26/2024 10:08:15 PM: fe Pegou da área de descarte a carta 3 de Ouros
+11/26/2024 10:08:15 PM: Lucas Colocou em seu próprio monte a carta 1 de Ouros
+11/26/2024 10:08:15 PM: fe Pegou da área de descarte a carta 11 de Espadas
+11/26/2024 10:08:15 PM: Lucas Descartou a carta 4 de Paus
+11/26/2024 10:08:15 PM: fe Descartou a carta 7 de Espadas
+11/26/2024 10:08:15 PM: Lucas Roubou o monte inteiro de a carta 11 de Ouros
+11/26/2024 10:08:15 PM: fe Descartou a carta 3 de Espadas
+11/26/2024 10:08:15 PM: Lucas Descartou a carta 13 de Ouros
+11/26/2024 10:08:15 PM: fe Descartou a carta 1 de Paus
+11/26/2024 10:08:15 PM: Lucas Pegou da área de descarte a carta 3 de Ouros
+11/26/2024 10:08:15 PM: fe Descartou a carta 5 de Paus
+11/26/2024 10:08:15 PM: Lucas Pegou da área de descarte a carta 6 de Paus
+11/26/2024 10:08:15 PM: fe Descartou a carta 9 de Ouros
+11/26/2024 10:08:15 PM: Lucas Pegou da área de descarte a carta 4 de Ouros
+11/26/2024 10:08:15 PM: fe Descartou a carta 3 de Paus
+11/26/2024 10:08:15 PM: Lucas Descartou a carta 6 de Copas
+11/26/2024 10:08:15 PM: fe Roubou o monte inteiro de a carta 4 de Paus
+11/26/2024 10:08:15 PM: Lucas Descartou a carta 12 de Ouros
+11/26/2024 10:08:15 PM: fe Colocou em seu próprio monte a carta 4 de Ouros
+11/26/2024 10:08:15 PM: Lucas Descartou a carta 10 de Espadas
+11/26/2024 10:08:15 PM: fe Pegou da área de descarte a carta 5 de Ouros
+11/26/2024 10:08:15 PM: Lucas Pegou da área de descarte a carta 8 de Copas
+11/26/2024 10:08:15 PM: fe Pegou da área de descarte a carta 2 de Copas
+11/26/2024 10:08:15 PM: Lucas Pegou da área de descarte a carta 6 de Espadas
+11/26/2024 10:08:15 PM: fe Pegou da área de descarte a carta 7 de Paus
+11/26/2024 10:08:15 PM: Lucas Descartou a carta 5 de Ouros
+11/26/2024 10:08:15 PM: fe Descartou a carta 2 de Ouros
+11/26/2024 10:08:15 PM: Lucas Pegou da área de descarte a carta 10 de Paus
+11/26/2024 10:08:15 PM: fe Descartou a carta 6 de Copas
+11/26/2024 10:08:15 PM: Lucas Pegou da área de descarte a carta 5 de Copas
+11/26/2024 10:08:15 PM: fe Descartou a carta 8 de Copas
+11/26/2024 10:08:15 PM: Lucas Pegou da área de descarte a carta 13 de Espadas
+11/26/2024 10:08:15 PM: fe Pegou da área de descarte a carta 12 de Copas
+11/26/2024 10:08:15 PM: Lucas Descartou a carta 7 de Ouros
+11/26/2024 10:08:15 PM: fe Descartou a carta 11 de Espadas
+11/26/2024 10:08:15 PM: Lucas Pegou da área de descarte a carta 11 de Paus
+11/26/2024 10:08:15 PM: fe Descartou a carta 10 de Copas
+11/26/2024 10:08:15 PM: Lucas Pegou da área de descarte a carta 10 de Espadas
+11/26/2024 10:08:15 PM: fe Pegou da área de descarte a carta 3 de Copas
+11/26/2024 10:08:15 PM: Lucas Colocou em seu próprio monte a carta 10 de Copas
+11/26/2024 10:08:15 PM: fe Pegou da área de descarte a carta 8 de Ouros
+11/26/2024 10:08:15 PM: Lucas Pegou da área de descarte a carta 9 de Espadas
+11/26/2024 10:08:15 PM: fe Descartou a carta 12 de Paus
+11/26/2024 10:08:15 PM: Lucas Pegou da área de descarte a carta 7 de Copas
+11/26/2024 10:08:15 PM: fe Descartou a carta 5 de Espadas
+11/26/2024 10:08:15 PM: Lucas Descartou a carta 13 de Ouros
+11/26/2024 10:08:15 PM: fe Pegou da área de descarte a carta 5 de Copas
+11/26/2024 10:08:15 PM: Lucas Descartou a carta 11 de Copas
+11/26/2024 10:08:15 PM: fe Pegou da área de descarte a carta 6 de Paus
+11/26/2024 10:08:15 PM: Lucas Descartou a carta 3 de Espadas
+11/26/2024 10:08:15 PM: fe Pegou da área de descarte a carta 1 de Ouros
+11/26/2024 10:08:15 PM: Lucas Pegou da área de descarte a carta 13 de Copas
+11/26/2024 10:08:15 PM: fe Pegou da área de descarte a carta 11 de Copas
+11/26/2024 10:08:15 PM: Lucas Descartou a carta 9 de Copas
+11/26/2024 10:08:15 PM: fe Descartou a carta 1 de Espadas
+11/26/2024 10:08:15 PM: Lucas Descartou a carta 8 de Paus
+11/26/2024 10:08:15 PM: fe Colocou em seu próprio monte a carta 11 de Paus
+11/26/2024 10:08:15 PM: Lucas Descartou a carta 4 de Copas
+11/26/2024 10:08:15 PM: fe Pegou da área de descarte a carta 3 de Copas
+11/26/2024 10:08:15 PM: Lucas Pegou da área de descarte a carta 2 de EspaIniciando um novo jogo...
+O número de baralhos da partida é de: 2, totalizando 104 Cartas.
+A quantidade de jogares dessa partida é de: 2 jogadores.
+Jogador Fa foi adicionado na partida.
+Jogador Fe foi adicionado na partida.
+Monte de compras criado...
+Monte de compra embaralhado.
+Monte embaralhado...
+Jogador 1 iniciará a partida.
+11/26/2024 10:13:08 PM: Fa Descartou a carta 11 de Ouros
+11/26/2024 10:13:08 PM: Fe Descartou a carta 2 de Copas
+11/26/2024 10:13:08 PM: Fa Pegou da área de descarte a carta 2 de Copas
+11/26/2024 10:13:08 PM: Fe Descartou a carta 3 de Espadas
+11/26/2024 10:13:08 PM: Fa Colocou em seu próprio monte a carta 2 de Paus
+11/26/2024 10:13:08 PM: Fe Pegou da área de descarte a carta 11 de Copas
+11/26/2024 10:13:08 PM: Fa Descartou a carta 12 de Copas
+11/26/2024 10:13:08 PM: Fe Descartou a carta 13 de Espadas
+11/26/2024 10:13:08 PM: Fa Descartou a carta 4 de Ouros
+11/26/2024 10:13:08 PM: Fe Colocou em seu próprio monte a carta 11 de Ouros
+11/26/2024 10:13:08 PM: Fa Descartou a carta 8 de Copas
+11/26/2024 10:13:08 PM: Fe Descartou a carta 6 de Copas
+11/26/2024 10:13:08 PM: Fa Pegou da área de descarte a carta 12 de Ouros
+11/26/2024 10:13:08 PM: Fe Roubou o monte inteiro de a carta 12 de Ouros
+11/26/2024 10:13:08 PM: Fa Roubou o monte inteiro de a carta 12 de Copas
+11/26/2024 10:13:08 PM: Fe Descartou a carta 10 de Paus
+11/26/2024 10:13:08 PM: Fa Descartou a carta 1 de Ouros
+11/26/2024 10:13:08 PM: Fe Descartou a carta 7 de Paus
+11/26/2024 10:13:08 PM: Fa Descartou a carta 5 de Paus
+11/26/2024 10:13:08 PM: Fe Descartou a carta 9 de Copas
+11/26/2024 10:13:08 PM: Fa Pegou da área de descarte a carta 10 de Espadas
+11/26/2024 10:13:08 PM: Fe Pegou da área de descarte a carta 8 de Copas
+11/26/2024 10:13:08 PM: Fa Pegou da área de descarte a carta 5 de Copas
+11/26/2024 10:13:08 PM: Fe Pegou da área de descarte a carta 3 de Paus
+11/26/2024 10:13:08 PM: Fa Pegou da área de descarte a carta 4 de Copas
+11/26/2024 10:13:08 PM: Fe Colocou em seu próprio monte a carta 3 de Ouros
+11/26/2024 10:13:08 PM: Fa Colocou em seu próprio monte a carta 4 de Ouros
+11/26/2024 10:13:08 PM: Fe Descartou a carta 11 de Espadas
+11/26/2024 10:13:08 PM: Fa Colocou em seu próprio monte a carta 4 de Espadas
+11/26/2024 10:13:08 PM: Fe Colocou em seu próprio monte a carta 3 de Paus
+11/26/2024 10:13:08 PM: Fa Pegou da área de descarte a carta 1 de Paus
+11/26/2024 10:13:08 PM: Fe Descartou a carta 8 de Paus
+11/26/2024 10:13:08 PM: Fa Pegou da área de descarte a carta 9 de Ouros
+11/26/2024 10:13:08 PM: Fe Descartou a carta 4 de Paus
+11/26/2024 10:13:08 PM: Fa Descartou a carta 5 de Espadas
+11/26/2024 10:13:08 PM: Fe Descartou a carta 2 de Espadas
+11/26/2024 10:13:08 PM: Fa Pegou da área de descarte a carta 11 de Espadas
+11/26/2024 10:13:08 PM: Fe Pegou da área de descarte a carta 6 de Ouros
+11/26/2024 10:13:08 PM: Fa Descartou a carta 1 de Copas
+11/26/2024 10:13:08 PM: Fe Descartou a carta 10 de Paus
+11/26/2024 10:13:08 PM: Fa Pegou da área de descarte a carta 2 de Espadas
+11/26/2024 10:13:08 PM: Fe Pegou da área de descarte a carta 10 de Espadas
+11/26/2024 10:13:08 PM: Fa Pegou da área de descarte a carta 13 de Paus
+11/26/2024 10:13:08 PM: Fe Descartou a carta 2 de Ouros
+11/26/2024 10:13:08 PM: Fa Colocou em seu próprio monte a carta 13 de Copas
+11/26/2024 10:13:08 PM: Fe Descartou a carta 6 de Ouros
+11/26/2024 10:13:08 PM: Fa Roubou o monte inteiro de a carta 10 de Copas
+11/26/2024 10:13:08 PM: Fe Descartou a carta 9 de Paus
+11/26/2024 10:13:08 PM: Fa Pegou da área de descarte a carta 9 de Espadas
+11/26/2024 10:13:08 PM: Fe Descartou a carta 11 de Copas
+11/26/2024 10:13:08 PM: Fa Pegou da área de descarte a carta 7 de Ouros
+11/26/2024 10:13:08 PM: Fe Descartou a carta 9 de Copas
+11/26/2024 10:13:08 PM: Fa Descartou a carta 10 de Ouros
+11/26/2024 10:13:08 PM: Fe Descartou a carta 12 de Espadas
+11/26/2024 10:13:08 PM: Fa Pegou da área de descarte a carta 5 de Ouros
+11/26/2024 10:13:08 PM: Fe Roubou o monte inteiro de a carta 5 de Espadas
+11/26/2024 10:13Iniciando um novo jogo...
+O número de baralhos da partida é de: 2, totalizando 104 Cartas.
+A quantidade de jogares dessa partida é de: 2 jogadores.
+Jogador Fa foi adicionado na partida.
+Jogador Fe foi adicionado na partida.
+Monte de compras criado...
+Monte de compra embaralhado.
+Monte embaralhado...
+Jogador 1 iniciará a partida.
+11/26/2024 10:15:23 PM: Fa Descartou a carta 6 de Ouros
+11/26/2024 10:15:23 PM: Fe Descartou a carta 7 de Ouros
+11/26/2024 10:15:23 PM: Fa Pegou da área de descarte a carta 7 de Ouros
+11/26/2024 10:15:23 PM: Fe Descartou a carta 4 de Paus
+11/26/2024 10:15:23 PM: Fa Pegou da área de descarte a carta 4 de Paus
+11/26/2024 10:15:23 PM: Fe Descartou a carta 8 de Espadas
+11/26/2024 10:15:23 PM: Fa Descartou a carta 11 de Copas
+11/26/2024 10:15:23 PM: Fe Descartou a carta 1 de Paus
+11/26/2024 10:15:23 PM: Fa Descartou a carta 2 de Ouros
+11/26/2024 10:15:23 PM: Fe Pegou da área de descarte a carta 6 de Copas
+11/26/2024 10:15:23 PM: Fa Descartou a carta 3 de Copas
+11/26/2024 10:15:23 PM: Fe Pegou da área de descarte a carta 3 de Copas
+11/26/2024 10:15:23 PM: Fa Descartou a carta 13 de Copas
+11/26/2024 10:15:23 PM: Fe Descartou a carta 5 de Paus
+11/26/2024 10:15:23 PM: Fa Pegou da área de descarte a carta 1 de Espadas
+11/26/2024 10:15:23 PM: Fe Pegou da área de descarte a carta 11 de Espadas
+11/26/2024 10:15:23 PM: Fa Pegou da área de descarte a carta 2 de Espadas
+11/26/2024 10:15:23 PM: Fe Descartou a carta 3 de Paus
+11/26/2024 10:15:23 PM: Fa Descartou a carta 10 de Copas
+11/26/2024 10:15:23 PM: Fe Pegou da área de descarte a carta 13 de Ouros
+11/26/2024 10:15:23 PM: Fa Pegou da área de descarte a carta 5 de Paus
+11/26/2024 10:15:23 PM: Fe Descartou a carta 12 de Ouros
+11/26/2024 10:15:23 PM: Fa Descartou a carta 9 de Ouros
+11/26/2024 10:15:23 PM: Fe Pegou da área de descarte a carta 12 de Paus
+11/26/2024 10:15:23 PM: Fa Descartou a carta 13 de Ouros
+11/26/2024 10:15:23 PM: Fe Descartou a carta 6 de Espadas
+11/26/2024 10:15:23 PM: Fa Descartou a carta 7 de Copas
+11/26/2024 10:15:23 PM: Fe Descartou a carta 11 de Copas
+11/26/2024 10:15:23 PM: Fa Descartou a carta 1 de Espadas
+11/26/2024 10:15:23 PM: Fe Descartou a carta 2 de Ouros
+11/26/2024 10:15:23 PM: Fa Pegou da área de descarte a carta 11 de Paus
+11/26/2024 10:15:23 PM: Fe Pegou da área de descarte a carta 1 de Ouros
+11/26/2024 10:15:23 PM: Fa Roubou o monte inteiro de a carta 1 de Paus
+11/26/2024 10:15:23 PM: Fe Pegou da área de descarte a carta 6 de Paus
+11/26/2024 10:15:23 PM: Fa Descartou a carta 11 de Ouros
+11/26/2024 10:15:23 PM: Fe Pegou da área de descarte a carta 10 de Paus
+11/26/2024 10:15:23 PM: Fa Pegou da área de descarte a carta 11 de Ouros
+11/26/2024 10:15:23 PM: Fe Pegou da área de descarte a carta 8 de Copas
+11/26/2024 10:15:23 PM: Fa Descartou a carta 4 de Espadas
+11/26/2024 10:15:23 PM: Fe Descartou a carta 12 de Espadas
+11/26/2024 10:15:23 PM: Fa Pegou da área de descarte a carta 3 de Ouros
+11/26/2024 10:15:23 PM: Fe Colocou em seu próprio monte a carta 8 de Ouros
+11/26/2024 10:15:23 PM: Fa Roubou o monte inteiro de a carta 8 de Paus
+11/26/2024 10:15:23 PM: Fe Descartou a carta 6 de Ouros
+11/26/2024 10:15:23 PM: Fa Descartou a carta 1 de Copas
+11/26/2024 10:15:23 PM: Fe Roubou o monte inteiro de a carta 8 de Espadas
+11/26/2024 10:15:23 PM: Fa Descartou a carta 10 de Paus
+11/26/2024 10:15:23 PM: Fe Pegou da área de descarte a carta 7 de Paus
+11/26/2024 10:15:23 PM: Fa Pegou da área de descarte a carta 2 de Copas
+11/26/2024 10:15:23 PM: Fe Pegou da área de descarte a carta 13 de Copas
+11/26/2024 10:15:23 PM: Fa Descartou a carta 5 de Copas
+11/26/2024 10:15:23 PM: Fe Pegou da área de descarte a carta 9 de Ouros
+11/26/2024 10:15:23 PM: Fa Pegou da área de descarte a carta 5 de Espadas
+11/26/2024 10:15:23 PM: Fe Pegou da área de descarte a carta 6 de Paus
+11/26/2024 10:15:23 PM: Fa Pegou da área de descarte a carta 4 de Copas
+11/26/2024 10:15:23 PM: Fe Descartou a carta 7 de Espadas
+11/26/2024 10:15:23 PM: Fa Descartou a carta 11 de Paus
+11/26/2024 10:15:23 PM: Fe Descartou a carta 9 de Copas
+11/26/2024 10:15:23 PM: Fa Colocou em seu próprio monte a carta 4 de Espadas
+11/26/2024 10:15:23 PM: Fe Pegou da área de descarte a carta 10 de Ouros
+11/26/2024 10:15:23 PM: Fa Descartou a carta 3 de Paus
+11/26/2024 10:15:23 PM: Fe Descartou a carta 13 de Paus
+11/26/2024 10:15:23 PM: Fa Pegou da área de descarte a carta 13 de Espadas
+11/26/2024 10:15:23 PM: Fe Roubou o monte inteiro de a carta 13 de Espadas
+11/26/2024 10:15:23 PM: Fa Descartou a carta 10 de Copas
+11/26/2024 10:15:23 PM: Fe Pegou da área de descarte a carta 3 de Espadas
+11/26/2024 10:15:23 PM: Fa Descartou a carta 2 de Paus
+11/26/2024 10:15:23 PM: Fe Descartou a carta 6 de Espadas
+11/26/2024 10:15:23 PM: Fa Descartou a carta 5 de Ouros
+11/26/2024 10:15:23 PM: Fe Descartou a carta 4 de Ouros
+11/26/2024 10:15:23 PM: Fa Pegou da área de descarte a carta 12 de Copas
+11/26/2024 10:15:23 PM: Fe Pegou da área de descarte a carta 10 de Espadas
+11/26/2024 10:15:23 PM: Fa Colocou em seu próprio monte a carta 12 de Ouros
+11/26/2024 10:15:23 PM: Fe Pegou da área de descarte a carta 11 de Espadas
+11/26/2024 10:15:23 PM: Fa Pegou da área de descarte a carta 9 de Paus
+11/26/2024 10:15:23 PM: Fe Roubou o monte inteiro de a carta 9 de Espadas
+11/26/2024 10:15:23 PM: Fa Pegou da área de descarte a carta 7 de Espadas
+11/26/2024 10:15:23 PM: Fe Pegou da área de descarte a carta 2 de Espadas
+11/26/2024 10:15:23 PM: Fa Descartou a carta 9 de Espadas
+11/26/2024 10:15:23 PM: Fe Pegou da área de descarte a carta 6 de Copas
+11/26/2024 10:15:23 PM: Fa Descartou a carta 10 de Ouros
+11/26/2024 10:15:23 PM: Fe Pegou da área de descarte a carta 1 de Copas
+11/26/2024 10:15:23 PM: Fa Pegou da área de descarte a carta 9 de Copas
+11/26/2024 10:15:23 PM: Fe Descartou a carta 12 de Paus
+11/26/2024 10:15:23 PM: Fa Pegou da área de descarte a carta 12 de Copas
+11/26/2024 10:15:23 PM: Fe Descartou a carta 2 de Copas
+11/26/2024 10:15:23 PM: Fa Descartou a carta 7 de Copas
+11/26/2024 10:15:23 PM: Fe Descartou a carta 8 de Paus
+11/26/2024 10:15:23 PM: Fa Pegou da área de descarte a carta 4 de Copas
+11/26/2024 10:15:23 PM: Fe Pegou da área de descarte a carta 5 de Copas
+11/26/2024 10:15:23 PM: Fa Descartou a carta 13 de Paus
+11/26/2024 10:15:23 PM: Fe Descartou a carta 3 de Ouros
+11/26/2024 10:15:23 PM: Fa Pegou da área de descarte a carta 3 de Espadas
+11/26/2024 10:15:23 PM: Fe Colocou em seu próprio monte a carta 5 de Ouros
+11/26/2024 10:15:23 PM: Fa Descartou a carta 9 de Paus
+11/26/2024 10:15:23 PM: Fe Descartou a carta 1 de Ouros
+11/26/2024 10:15:23 PM: Fa Pegou da área de descarte a carta 7 de Paus
+11/26/2024 10:15:23 PM: Fe Colocou em seu próprio monte a carta 5 de Espadas
+11/26/2024 10:15:23 PM: Fa Pegou da área de descarte a carta 10 de Espadas
+11/26/2024 10:15:23 PM: Fe Descartou a carta 12 de Espadas
+11/26/2024 10:15:23 PM: Fa Pegou da área de descarte a carta 2 de Paus
+11/26/2024 10:15:23 PM: Fe Descartou a carta 4 de Ouros
+11/26/2024 10:15:23 PM: Fa Pegou da área de descarte a carta 8 de Copas
+11/26/2024 10:15:23 PM: Fe Roubou o monte inteiro de a carta 8 de Ouros
+Ranking Final da Partida:
+1° Lugar: Fe com 99 cartas.
+2° Lugar: Fa com 0 cartas.
+
+O vencedor é: Fe com 99 cartas.
+
+Ranking da partida:
+Fe: 99 cartas
+Fa: 0 cartas
+Iniciando um novo jogo...
+O número de baralhos da partida é de: 2, totalizando 104 Cartas.
+A quantidade de jogares dessa partida é de: 2 jogadores.
+Jogador Fe foi adicionado na partida.
+Jogador Fe foi adicionado como novo.
+Jogador Lucas foi adicionado na partida.
+Monte de compras criado...
+Monte de compra embaralhado.
+Monte embaralhado...
+Jogador 1 iniciará a partida.
+11/26/2024 10:15:32 PM: Fe Descartou a carta 6 de Espadas
+11/26/2024 10:15:32 PM: Lucas Descartou a carta 4 de Paus
+11/26/2024 10:15:32 PM: Fe Descartou a carta 5 de Espadas
+11/26/2024 10:15:32 PM: Lucas Descartou a carta 11 de Ouros
+11/26/2024 10:15:32 PM: Fe Descartou a carta 7 de Paus
+11/26/2024 10:15:32 PM: Lucas Pegou da área de descarte a carta 7 de Espadas
+11/26/2024 10:15:32 PM: Fe Pegou da área de descarte a carta 5 de Copas
+11/26/2024 10:15:32 PM: Lucas Pegou da área de descarte a carta 4 de Paus
+11/26/2024 10:15:32 PM: Fe Roubou o monte inteiro de a carta 4 de Ouros
+11/26/2024 10:15:32 PM: Lucas Descartou a carta 12 de Espadas
+11/26/2024 10:15:32 PM: Fe Descartou a carta 3 de Ouros
+11/26/2024 10:15:32 PM: Lucas Descartou a carta 9 de Paus
+11/26/2024 10:15:32 PM: Fe Pegou da área de descarte a carta 6 de Ouros
+11/26/2024 10:15:32 PM: Lucas Descartou a carta 5 de Paus
+11/26/2024 10:15:32 PM: Fe Descartou a carta 8 de Espadas
+11/26/2024 10:15:32 PM: Lucas Descartou a carta 7 de Copas
+11/26/2024 10:15:32 PM: Fe Descartou a carta 13 de Copas
+11/26/2024 10:15:32 PM: Lucas Pegou da área de descarte a carta 8 de Copas
+11/26/2024 10:15:32 PM: Fe Descartou a carta 1 de Ouros
+11/26/2024 10:15:32 PM: Lucas Pegou da área de descarte a carta 13 de Ouros
+11/26/2024 10:15:32 PM: Fe Roubou o monte inteiro de a carta 13 de Espadas
+11/26/2024 10:15:32 PM: Lucas Pegou da área de descarte a carta 9 de Copas
+11/26/2024 10:15:32 PM: Fe Descartou a carta 10 de Copas
+11/26/2024 10:15:32 PM: Lucas Descartou a carta 8 de Paus
+11/26/2024 10:15:32 PM: Fe Pegou da área de descarte a carta 1 de Paus
+11/26/2024 10:15:32 PM: Lucas Descartou a carta 4 de Copas
+11/26/2024 10:15:32 PM: Fe Pegou da área de descarte a carta 4 de Espadas
+11/26/2024 10:15:32 PM: Lucas Descartou a carta 1 de Copas
+11/26/2024 10:15:32 PM: Fe Pegou da área de descarte a carta 8 de Ouros
+11/26/2024 10:15:32 PM: Lucas Pegou da área de descarte a carta 5 de Paus
+11/26/2024 10:15:32 PM: Fe Pegou da área de descarte a carta 12 de Ouros
+11/26/2024 10:15:32 PM: Lucas Pegou da área de descarte a carta 3 de Ouros
+11/26/2024 10:15:32 PM: Fe Colocou em seu próprio monte a carta 12 de Ouros
+11/26/2024 10:15:32 PM: Lucas Roubou o monte inteiro de a carta 12 de Copas
+11/26/2024 10:15:32 PM: Fe Pegou da área de descarte a carta 7 de Espadas
+11/26/2024 10:15:32 PM: Lucas Descartou a carta 5 de Ouros
+11/26/2024 10:15:32 PM: Fe Descartou a carta 13 de Espadas
+11/26/2024 10:15:32 PM: Lucas Pegou da área de descarte a carta 1 de Copas
+11/26/2024 10:15:32 PM: Fe Descartou a carta 9 de Espadas
+11/26/2024 10:15:32 PM: Lucas Descartou a carta 4 de Espadas
+11/26/2024 10:15:32 PM: Fe Pegou da área de descarte a carta 10 de Paus
+11/26/2024 10:15:32 PM: Lucas Pegou da área de descarte a carta 11 de Copas
+11/26/2024 10:15:32 PM: Fe Pegou da área de descarte a carta 9 de Espadas
+11/26/2024 10:15:32 PM: Lucas Pegou da área de descarte a carta 13 de Ouros
+11/26/2024 10:15:32 PM: Fe Descartou a carta 2 de Espadas
+11/26/2024 10:15:32 PM: Lucas Descartou a carta 6 de Copas
+11/26/2024 10:15:32 PM: Fe Descartou a carta 3 de Paus
+11/26/2024 10:15:32 PM: Lucas Roubou o monte inteiro de a carta 9 de Ouros
+11/26/2024 10:15:32 PM: Fe Descartou a carta 7 de Copas
+11/26/2024 10:15:32 PM: Lucas Descartou a carta 1 de Ouros
+11/26/2024 10:15:32 PM: Fe Descartou a carta 11 de Paus
+11/26/2024 10:15:32 PM: Lucas Descartou a carta 8 de Paus
+11/26/2024 10:15:32 PM: Fe Descartou a carta 13 de Paus
+11/26/2024 10:15:32 PM: Lucas Pegou da área de descarte a carta 2 de Copas
+11/26/2024 10:15:32 PM: Fe Pegou da área de descarte a carta 3 de Espadas
+11/26/2024 10:15:32 PM: Lucas Pegou da área de descarte a carta 11 de Ouros
+11/26/2024 10:15:32 PM: Fe Pegou da área de descarte a carta 6 de Paus
+11/26/2024 10:15:32 PM: Lucas Colocou em seu próprio monte a carta 11 de Paus
+11/26/2024 10:15:32 PM: Fe Descartou a carta 9 de Ouros
+11/26/2024 10:15:32 PM: Lucas Pegou da área de descarte a carta 1 de Paus
+11/26/2024 10:15:32 PM: Fe Descartou a carta 10 de Espadas
+11/26/2024 10:15:32 PM: Lucas Descartou a carta 2 de Espadas
+11/26/2024 10:15:32 PM: Fe Pegou da área de descarte a carta 10 de Espadas
+11/26/2024 10:15:32 PM: Lucas Descartou a carta 12 de Paus
+11/26/2024 10:15:32 PM: Fe Pegou da área de descarte a carta 13 de Copas
+11/26/2024 10:15:32 PM: Lucas Pegou da área de descarte a carta 8 de Copas
+11/26/2024 10:15:32 PM: Fe Pegou da área de descarte a carta 4 de Ouros
+11/26/2024 10:15:32 PM: Lucas Descartou a carta 3 de Copas
+11/26/2024 10:15:32 PM: Fe Pegou da área de descarte a carta 7 de Ouros
+11/26/2024 10:15:32 PM: Lucas Descartou a carta 1 de Espadas
+11/26/2024 10:15:32 PM: Fe Pegou da área de descarte a carta 3 de Paus
+11/26/2024 10:15:32 PM: Lucas Descartou a carta 10 de Paus
+11/26/2024 10:15:32 PM: Fe Descartou a carta 11 de Espadas
+11/26/2024 10:15:32 PM: Lucas Colocou em seu próprio monte a carta 8 de Ouros
+11/26/2024 10:15:32 PM: Fe Pegou da área de descarte a carta 2 de Paus
+11/26/2024 10:15:32 PM: Lucas Pegou da área de descarte a carta 9 de Paus
+11/26/2024 10:15:32 PM: Fe Descartou a carta 6 de Ouros
+11/26/2024 10:15:32 PM: Lucas Pegou da área de descarte a carta 6 de Copas
+11/26/2024 10:15:32 PM: Fe Colocou em seu próprio monte a carta 2 de Ouros
+11/26/2024 10:15:32 PM: Lucas Colocou em seu próprio monte a carta 6 de Espadas
+11/26/2024 10:15:32 PM: Fe Descartou a carta 13 de Paus
+11/26/2024 10:15:32 PM: Lucas Pegou da área de descarte a carta 5 de Espadas
+11/26/2024 10:15:32 PM: Fe Roubou o monte inteiro de a carta 5 de Ouros
+11/26/2024 10:15:32 PM: Lucas Descartou a carta 2 de Ouros
+11/26/2024 10:15:32 PM: Fe Descartou a carta 4 de Copas
+11/26/2024 10:15:32 PM: Lucas Pegou da área de descarte a carta 12 de Copas
+11/26/2024 10:15:32 PM: Fe Pegou da área de descarte a carta 2 de Copas
+11/26/2024 10:15:32 PM: Lucas Pegou da área de descarte a carta 10 de Ouros
+11/26/2024 10:15:32 PM: Fe Descartou a carta 3 de Espadas
+11/26/2024 10:15:32 PM: Lucas Descartou a carta 7 de Ouros
+11/26/2024 10:15:32 PM: Fe Roubou o monte inteiro de a carta 10 de Copas
+11/26/2024 10:15:32 PM: Lucas Descartou a carta 12 de Espadas
+11/26/2024 10:15:32 PM: Fe Descartou a carta 5 de Copas
+11/26/2024 10:15:32 PM: Lucas Pegou da área de descarte a carta 1 de Espadas
+11/26/2024 10:15:32 PM: Fe Pegou da área de descarte a carta 11 de Espadas
+11/26/2024 10:15:32 PM: Lucas Pegou da área de descarte a carta 12 de Paus
+11/26/2024 10:15:32 PM: Fe Descartou a carta 10 de Ouros
+11/Iniciando um novo jogo...
+O número de baralhos da partida é de: 2, totalizando 104 Cartas.
+A quantidade de jogares dessa partida é de: 2 jogadores.
+Jogador Fa foi adicionado na partida.
+Jogador Fa foi adicionado como novo.
+Jogador Fe foi adicionado na partida.
+Jogador Fe foi adicionado como novo.
+Monte de compras criado...
+Monte de compra embaralhado.
+Monte embaralhado...
+Jogador 1 iniciará a partida.
+11/26/2024 10:22:09 PM: Fa Descartou a carta 13 de Copas
+11/26/2024 10:22:09 PM: Fe Descartou a carta 9 de Ouros
+11/26/2024 10:22:09 PM: Fa Descartou a carta 1 de Ouros
+11/26/2024 10:22:09 PM: Fe Descartou a carta 8 de Ouros
+11/26/2024 10:22:09 PM: Fa Descartou a carta 10 de Ouros
+11/26/2024 10:22:09 PM: Fe Descartou a carta 11 de Espadas
+11/26/2024 10:22:09 PM: Fa Descartou a carta 6 de Copas
+11/26/2024 10:22:09 PM: Fe Pegou da área de descarte a carta 1 de Paus
+11/26/2024 10:22:09 PM: Fa Descartou a carta 3 de Ouros
+11/26/2024 10:22:09 PM: Fe Pegou da área de descarte a carta 11 de Ouros
+11/26/2024 10:22:09 PM: Fa Descartou a carta 12 de Copas
+11/26/2024 10:22:09 PM: Fe Descartou a carta 5 de Ouros
+11/26/2024 10:22:09 PM: Fa Descartou a carta 4 de Copas
+11/26/2024 10:22:09 PM: Fe Pegou da área de descarte a carta 4 de Espadas
+11/26/2024 10:22:09 PM: Fa Pegou da área de descarte a carta 3 de Espadas
+11/26/2024 10:22:09 PM: Fe Descartou a carta 7 de Espadas
+11/26/2024 10:22:09 PM: Fa Pegou da área de descarte a carta 6 de Espadas
+11/26/2024 10:22:09 PM: Fe Descartou a carta 1 de Paus
+11/26/2024 10:22:09 PM: Fa Colocou em seu próprio monte a carta 6 de Paus
+11/26/2024 10:22:09 PM: Fe Descartou a carta 3 de Paus
+11/26/2024 10:22:09 PM: Fa Pegou da área de descarte a carta 12 de Paus
+11/26/2024 10:22:09 PM: Fe Pegou da área de descarte a carta 13 de Ouros
+11/26/2024 10:22:09 PM: Fa Descartou a carta 6 de Ouros
+11/26/2024 10:22:09 PM: Fe Descartou a carta 4 de Copas
+11/26/2024 10:22:09 PM: Fa Pegou da área de descarte a carta 4 de Ouros
+11/26/2024 10:22:09 PM: Fe Pegou da área de descarte a carta 3 de Paus
+11/26/2024 10:22:09 PM: Fa Pegou da área de descarte a carta 10 de Paus
+11/26/2024 10:22:09 PM: Fe Pegou da área de descarte a carta 9 de Paus
+11/26/2024 10:22:09 PM: Fa Descartou a carta 12 de Espadas
+11/26/2024 10:22:09 PM: Fe Pegou da área de descarte a carta 1 de Ouros
+11/26/2024 10:22:09 PM: Fa Descartou a carta 13 de Copas
+11/26/2024 10:22:09 PM: Fe Colocou em seu próprio monte a carta 1 de Espadas
+11/26/2024 10:22:09 PM: Fa Pegou da área de descarte a carta 5 de Paus
+11/26/2024 10:22:09 PM: Fe Descartou a carta 10 de Ouros
+11/26/2024 10:22:09 PM: Fa Pegou da área de descarte a carta 6 de Copas
+11/26/2024 10:22:09 PM: Fe Roubou o monte inteiro de a carta 6 de Espadas
+11/26/2024 10:22:09 PM: Fa Pegou da área de descarte a carta 12 de Copas
+11/26/2024 10:22:09 PM: Fe Descartou a carta 5 de Copas
+11/26/2024 10:22:09 PM: Fa Descartou a carta 2 de Copas
+11/26/2024 10:22:09 PM: Fe Descartou a carta 11 de Ouros
+11/26/2024 10:22:09 PM: Fa Descartou a carta 1 de Copas
+11/26/2024 10:22:09 PM: Fe Descartou a carta 9 de Copas
+11/26/2024 10:22:09 PM: Fa Pegou da área de descarte a carta 8 de Paus
+11/26/2024 10:22:09 PM: Fe Pegou da área de descarte a carta 2 de Espadas
+11/26/2024 10:22:09 PM: Fa Descartou a carta 4 de Espadas
+11/26/2024 10:22:09 PM: Fe Descartou a carta 3 de Espadas
+11/26/2024 10:22:09 PM: Fa Descartou a carta 6 de Paus
+11/26/2024 10:22:09 PM: Fe Roubou o monte inteiro de a carta 8 de Paus
+11/26/2024 10:22:09 PM: Fa Pegou da área de descarte a carta 11 de Paus
+11/26/2024 10:22:09 PM: Fe Pegou da área de descarte a carta 10 de Espadas
+11/26/2024 10:22:09 PM: Fa Pegou da área de descarte a carta 9 de Espadas
+11/26/2024 10:22:09 PM: Fe Pegou da área de descarte a carta 13 de Espadas
+11/26/2024 10:22:09 PM: Fa Descartou a carta 11 de Espadas
+11/26/2024 10:22:09 PM: Fe Pegou da área de descarte a carta 6 de Ouros
+11/26/2024 10:22:09 PM: Fa Descartou a carta 12 de Ouros
+11/26/2024 10:22:09 PM: Fe Descartou a carta 2 de Paus
+11/26/2024 10:22:09 PM: Fa Pegou da área de descarte a carta 5 de Paus
+11/26/2024 10:22:09 PM: Fe Pegou da área de descarte a carta 12 de Ouros
+11/26/2024 10:22:09 PM: Fa Pegou da área de descarte a carta 7 de Ouros
+11/26/2024 10:22:09 PM: Fe Descartou a carta 9 de Copas
+11/26/2024 10:22:09 PM: Fa Pegou da área de descarte a carta 3 de Copas
+11/26/2024 10:22:09 PM: Fe Colocou em seu próprio monte a carta 12 de Paus
+11/26/2024 10:22:09 PM: Fa Pegou da área de descarte a carta 2 de Paus
+11/26/2024 10:22:09 PM: Fe Descartou a carta 3 de Ouros
+11/26/2024 10:22:09 PM: Fa Roubou o monte inteiro de a carta 12 de Espadas
+11/26/2024 10:22:09 PM: Fe Descartou a carta 10 de Espadas
+11/26/2024 10:22:09 PM: Fa Descartou a carta 5 de Espadas
+11/26/2024 10:22:09 PM: Fe Descartou a carta 7 de Paus
+11/26/2024 10:22:09 PM: Fa Descartou a carta 13 de Espadas
+11/26/2024 10:22:09 PM: Fe Pegou da área de descarte a carta 11 de Paus
+11/26/2024 10:22:09 PM: Fa Descartou a carta 8 de Ouros
+11/26/2024 10:22:09 PM: Fe Pegou da área de descarte a carta 3 de Copas
+11/26/2024 10:22:09 PM: Fa Pegou da área de descarte a carta 13 de Paus
+11/26/2024 10:22:09 PM: Fe Pegou da área de descarte a carta 8 de Copas
+11/26/2024 10:22:09 PM: Fa Pegou da área de descarte a carta 4 de Paus
+11/26/2024 10:22:09 PM: Fe Descartou a carta 2 de Ouros
+11/26/2024 10:22:09 PM: Fa Pegou da área de descarte a carta 7 de Copas
+11/26/2024 10:22:09 PM: Fe Roubou o monte inteiro de a carta 7 de Paus
+11/26/2024 10:22:09 PM: Fa Pegou da área de descarte a carta 2 de Espadas
+11/26/2024 10:22:09 PM: Fe Roubou o monte inteiro de a carta 2 de Ouros
+11/26/2024 10:22:09 PM: Fa Pegou da área de descarte a carta 10 de Copas
+11/26/2024 10:22:09 PM: Fe Pegou da área de descarte a carta 5 de Espadas
+11/26/2024 10:22:09 PM: Fa Descartou a carta 11 de Copas
+11/26/2024 10:22:09 PM: Fe Colocou em seu próprio monte a carta 5 de Copas
+11/26/2024 10:22:09 PM: Fa Descartou a carta 8 de Copas
+11/26/2024 10:22:09 PM: Fe Descartou a carta 2 de Copas
+11/26/2024 10:22:09 PM: Fa Descartou a carta 7 de Ouros
+11/26/2024 10:22:09 PM: Fe Roubou o monte inteiro de a carta 10 de Copas
+11/26/2024 10:22:09 PM: Fa Descartou a carta 13 de Ouros
+11/26/2024 10:22:09 PM: Fe Descartou a carta 5 de Ouros
+11/26/2024 10:22:09 PM: Fa Pegou da área de descarte a carta 7 de Espadas
+11/26/2024 10:22:09 PM: Fe Descartou a carta 4 de Ouros
+11/26/2024 10:22:09 PM: Fa Pegou da área de descarte a carta 9 de Espadas
+11/26/2024 10:22:09 PM: Fe Descartou a carta 7 de Copas
+11/26/2024 10:22:09 PM: Fa Pegou da área de descarte a carta 13 de Paus
+11/26/2024 10:22:09 PM: Fe Pegou da área de descarte a carta 8 de Espadas
+11/26/2024 10:22:09 PM: Fa Pegou da área de descarte a carta 1 de Copas
+11/26/2024 10:22:09 PM: Fe Pegou da área de descarte a carta 11 de Copas
+11/26/2024 10:22:09 PM: Fa Descartou a carta 10 de Paus
+11/26/2024 10:22:09 PM: Fe Descartou a carta 9 de Paus
+11/26/2024 10:22:09 PM: Fa Pegou da área de descarte a carta 9 de Ouros
+11/26/2024 10:22:09 PM: Fe Descartou a carta 8 de Espadas
+11/26/2024 10:22:09 PM: Fa Pegou da área de descarte a carta 4 de Paus
+11/26/2024 10:22:09 PM: Fe Descartou a carta 1 de Espadas
+Ranking Final da Partida:
+1° Lugar: Fe com 86 cartas.
+2° Lugar: Fa com 12 cartas.
+
+O vencedor é: Fe com 86 cartas.
+
+Ranking da partida:
+Fe: 86 cartas
+Fa: 12 cartas
+Iniciando um novo jogo...
+O número de baralhos da partida é de: 2, totalizando 104 Cartas.
+A quantidade de jogares dessa partida é de: 2 jogadores.
+Jogador Fe foi adicionado na partida.
+Usando o Jogador Fe (jogador anterior).
+Jogador Lucas foi adicionado na partida.
+Jogador Lucas foi adicionado como novo.
+Monte de compras criado...
+Monte de compra embaralhado.
+Monte embaralhado...
+Jogador 1 iniciará a partida.
+11/26/2024 10:22:17 PM: Fe Descartou a carta 4 de Ouros
+11/26/2024 10:22:17 PM: Lucas Descartou a carta 5 de Paus
+11/26/2024 10:22:17 PM: Fe Pegou da área de descarte a carta 5 de Copas
+11/26/2024 10:22:17 PM: Lucas Descartou a carta 9 de Copas
+11/26/2024 10:22:17 PM: Fe Descartou a carta 6 de Copas
+11/26/2024 10:22:17 PM: Lucas Descartou a carta 3 de Espadas
+11/26/2024 10:22:17 PM: Fe Descartou a carta 11 de Espadas
+11/26/2024 10:22:17 PM: Lucas Pegou da área de descarte a carta 3 de Paus
+11/26/2024 10:22:17 PM: Fe Descartou a carta 7 de Espadas
+11/26/2024 10:22:17 PM: Lucas Pegou da área de descarte a carta 4 de Copas
+11/26/2024 10:22:17 PM: Fe Pegou da área de descarte a carta 9 de Paus
+11/26/2024 10:22:17 PM: Lucas Pegou da área de descarte a carta 6 de Espadas
+11/26/2024 10:22:17 PM: Fe Colocou em seu próprio monte a carta 9 de Espadas
+11/26/2024 10:22:17 PM: Lucas Colocou em seu próprio monte a carta 6 de Paus
+11/26/2024 10:22:17 PM: Fe Colocou em seu próprio monte a carta 9 de Espadas
+11/26/2024 10:22:17 PM: Lucas Descartou a carta 5 de Espadas
+11/26/2024 10:22:17 PM: Fe Colocou em seu próprio monte a carta 9 de Ouros
+11/26/2024 10:22:17 PM: Lucas Descartou a carta 12 de Espadas
+11/26/2024 10:22:17 PM: Fe Pegou da área de descarte a carta 7 de Copas
+11/26/2024 10:22:17 PM: Lucas Pegou da área de descarte a carta 11 de Ouros
+11/26/2024 10:22:17 PM: Fe Descartou a carta 10 de Ouros
+11/26/2024 10:22:17 PM: Lucas Descartou a carta 6 de Espadas
+11/26/2024 10:22:17 PM: Fe Pegou da área de descarte a carta 10 de Copas
+11/26/2024 10:22:17 PM: Lucas Roubou o monte inteiro de a carta 10 de Ouros
+11/26/2024 10:22:17 PM: Fe Descartou a carta 13 de Paus
+11/26/2024 10:22:17 PM: Lucas Descartou a carta 3 de Copas
+11/26/2024 10:22:17 PM: Fe Pegou da área de descarte a carta 12 de Copas
+11/26/2024 10:22:17 PM: Lucas Roubou o monte inteiro de a carta 12 de Copas
+11/26/2024 10:22:17 PM: Fe Descartou a carta 2 de Copas
+11/26/2024 10:22:17 PM: Lucas Pegou da área de descarte a carta 3 de Paus
+11/26/2024 10:22:17 PM: Fe Descartou a carta 7 de Espadas
+11/26/2024 10:22:17 PM: Lucas Descartou a carta 4 de Copas
+11/26/2024 10:22:17 PM: Fe Pegou da área de descarte a carta 4 de Ouros
+11/26/2024 10:22:17 PM: Lucas Pegou da área de descarte a carta 2 de Copas
+11/26/2024 10:22:17 PM: Fe Pegou da área de descarte a carta 6 de Copas
+11/26/2024 10:22:17 PM: Lucas Pegou da área de descarte a carta 5 de Paus
+11/26/2024 10:22:17 PM: Fe Descartou a carta 8 de Ouros
+11/26/2024 10:22:17 PM: Lucas Descartou a carta 1 de Ouros
+11/26/2024 10:22:17 PM: Fe Descartou a carta 9 de Paus
+11/26/2024 10:22:17 PM: Lucas Roubou o monte inteiro de a carta 6 de Ouros
+11/26/2024 10:22:17 PM: Fe Descartou a carta 12 de Espadas
+11/26/2024 10:22:17 PM: Lucas Pegou da área de descarte a carta 1 de Copas
+11/26/2024 10:22:17 PM: Fe Pegou da área de descarte a carta 8 de Copas
+11/26/2024 10:22:17 PM: Lucas Descartou a carta 10 de Espadas
+11/26/2024 10:22:17 PM: Fe Pegou da área de descarte a carta 10 de Espadas
+11/26/2024 10:22:17 PM: Lucas Pegou da área de descarte a carta 7 de Copas
+11/26/2024 10:22:17 PM: Fe Colocou em seu próprio monte a carta 10 de Copas
+11/26/2024 10:22:17 PM: Lucas Descartou a carta 8 de Espadas
+11/26/2024 10:22:17 PM: Fe Descartou a carta 1 de Paus
+11/26/2024 10:22:17 PM: Lucas Pegou da área de descarte a carta 8 de Paus
+11/26/2024 10:22:17 PM: Fe Roubou o monte inteiro de a carta 8 de Paus
+11/26/2024 10:22:17 PM: Lucas Descartou a carta 4 de Paus
+11/26/2024 10:22:17 PM: Fe Descartou a carta 2 de Espadas
+11/26/2024 10:22:17 PM: Lucas Descartou a carta 11 de Paus
+11/26/2024 10:22:17 PM: Fe Pegou da área de descarte a carta 13 de Espadas
+11/26/2024 10:22:17 PM: Lucas Pegou da área de descarte a carta 12 de Ouros
+11/26/2024 10:22:17 PM: Fe Descartou a carta 7 de Ouros
+11/26/2024 10:22:17 PM: Lucas Descartou a carta 8 de Ouros
+11/26/2024 10:22:17 PM: Fe Pegou da área de descarte a carta 11 de Paus
+11/26/2024 10:22:17 PM: Lucas Descartou a carta 3 de Copas
+11/26/2024 10:22:17 PM: Fe Pegou da área de descarte a carta 3 de Ouros
+11/26/2024 10:22:17 PM: Lucas Descartou a carta 13 de Espadas
+11/26/2024 10:22:17 PM: Fe Pegou da área de descarte a carta 1 de Paus
+11/26/2024 10:22:17 PM: Lucas Pegou da área de descarte a carta 4 de Paus
+11/26/2024 10:22:17 PM: Fe Descartou a carta 12 de Paus
+11/26/2024 10:22:17 PM: Lucas Descartou a carta 5 de Copas
+11/26/2024 10:22:17 PM: Fe Pegou da área de descarte a carta 2 de Espadas
+11/26/2024 10:22:17 PM: Lucas Pegou da área de descarte a carta 7 de Ouros
+11/26/2024 10:22:17 PM: Fe Descartou a carta 1 de Espadas
+11/26/2024 10:22:17 PM: Lucas Roubou o monte inteiro de a carta 2 de Ouros
+11/26/2024 10:22:17 PM: Fe Descartou a carta 11 de Espadas
+11/26/2024 10:22:17 PM: Lucas Descartou a carta 7 de Paus
+11/26/2024 10:22:17 PM: Fe Roubou o monte inteiro de a carta 2 de Paus
+11/26/2024 10:22:17 PM: Lucas Roubou o monte inteiro de a carta 2 de Ouros
+11/26/2024 10:22:17 PM: Fe Roubou o monte inteiro de a carta 2 de Paus
+11/26/2024 10:22:17 PM: Lucas Descartou a carta 10 de Paus
+11/26/2024 10:22:17 PM: Fe Pegou da área de descarte a carta 13 de Paus
+11/26/2024 10:22:17 PM: Lucas Roubou o monte inteiro de a carta 13 de Ouros
+11/26/2024 10:22:17 PM: Fe Descartou a carta 3 de Espadas
+11/26/2024 10:22:17 PM: Lucas Descartou a carta 6 de Paus
+11/26/2024 10:22:17 PM: Fe Pegou da área de descarte a carta 8 de Espadas
+11/26/2024 10:22:17 PM: Lucas Pegou da área de descarte a carta 5 de Espadas
+11/26/2024 10:22:17 PM: Fe Pegou da área de descarte a carta 12 de Ouros
+11/26/2024 10:22:17 PM: Lucas Pegou da área de descarte a carta 9 de Ouros
+11/26/2024 10:22:17 PM: Fe Pegou da área de descarte a carta 10 de Paus
+11/26/2024 10:22:17 PM: Lucas Descartou a carta 4 de Espadas
+11/26/2024 10:22:17 PM: Fe Pegou da área de descarte a carta 1 de Copas
+11/26/2024 10:22:17 PM: Lucas Colocou em seu próprio monte a carta 9 de Copas
+11/26/2024 10:22:17 PM: Fe Colocou em seu próprio monte a carta 1 de Ouros
+11/26/2024 10:22:17 PM: Lucas Descartou a carta 8 de Copas
+11/26/2024 10:22:17 PM: Fe Pegou da área de descarte a carta 11 de Ouros
+11/26/2024 10:22:17 PM: Lucas Descartou a carta 13 de Ouros
+11/26/2024 10:22:17 PM: Fe Descartou a carta 5 de Ouros
+11/26/2024 10:22:17 PM: Lucas Pegou da área de descarte a carta 6 de Ouros
+11/26/2024 10:22:17 PM: Fe Pegou da área de descarte a carta 5 de Ouros
+11/26/2024 10:22:17 PM: Lucas Pegou da área de descarte a carta 3 de Ouros
+11/26/2024 10:22:17 PM: Fe Pegou da área de descarte a carta 7 de Paus
+11/26/2024 10:22:17 PM: Lucas Pegou da área de descarte a carta 4 de Espadas
+11/26/2024 10:22:17 PM: Fe Pegou da área de descarte a carta 13 de Copas
+11/26/2024 10:22:17 PM: Lucas Descartou a carta 1 de Espadas
+11/26/2024 10:22:17 PM: Fe Descartou a carta 11 de Copas
+11/26/2024 10:22:17 PM: Lucas Descartou a carta 12 de Paus
+11/26/2024 10:22:17 PM: Fe Colocou em seu próprio monte a carta 13 de Copas
+11/26/2024 10:22:17 PM: Lucas Pegou da área de descarte a carta 11 de Copas
+Ranking Final da Partida:
+1° Lugar: Lucas com 169 cartas.
+2° Lugar: Fe com 18 cartas.
+
+O vencedor é: Lucas com 169 cartas.
+
+Ranking da partida:
+Lucas: 169 cartas
+Fe: 18 cartas
+Procurando histórico do jogador Lucas
+Partida: 1 Posição: 1
+Procurando histórico do jogador Fe
+Partida: 1 Posição: 1
+Partida: 2 Posição: 2
+Reiniciando o jogo...
+Monte de compras criado...
+Monte de compra embaralhado.
+Monte embaralhado...
+Monte do jogador Fe limpo.
+Monte do jogador Lucas limpo.
+Jogador 1 iniciará a partida.
+11/26/2024 10:22:39 PM: Fe Descartou a carta 5 de Copas
+11/26/2024 10:22:39 PM: Lucas Descartou a carta 7 de Paus
+11/26/2024 10:22:39 PM: Fe Descartou a carta 12 de Ouros
+11/26/2024 10:22:39 PM: Lucas Descartou a carta 4 de Ouros
+11/26/2024 10:22:39 PM: Fe Descartou a carta 2 de Paus
+11/26/2024 10:22:39 PM: Lucas Descartou a carta 3 de Paus
+11/26/2024 10:22:39 PM: Fe Descartou a carta 9 de Paus
+11/26/2024 10:22:39 PM: Lucas Descartou a carta 10 de Ouros
+11/26/2024 10:22:39 PM: Fe Pegou da área de descarte a carta 12 de Espadas
+11/26/2024 10:22:39 PM: Lucas Pegou da área de descarte a carta 5 de Paus
+11/26/2024 10:22:39 PM: Fe Descartou a carta 8 de Paus
+11/26/2024 10:22:39 PM: Lucas Descartou a carta 13 de Ouros
+11/26/2024 10:22:39 PM: Fe Roubou o monte inteiro de a carta 5 de Ouros
+11/26/2024 10:22:39 PM: Lucas Pegou da área de descarte a carta 4 de Copas
+11/26/2024 10:22:39 PM: Fe Pegou da área de descarte a carta 10 de Copas
+11/26/2024 10:22:39 PM: Lucas Descartou a carta 5 de Paus
+11/26/2024 10:22:39 PM: Fe Pegou da área de descarte a carta 13 de Copas
+11/26/2024 10:22:39 PM: Lucas Descartou a carta 10 de Paus
+11/26/2024 10:22:39 PM: Fe Pegou da área de descarte a carta 2 de Ouros
+11/26/2024 10:22:39 PM: Lucas Descartou a carta 1 de Copas
+11/26/2024 10:22:39 PM: Fe Pegou da área de descarte a carta 7 de Ouros
+11/26/2024 10:22:39 PM: Lucas Pegou da área de descarte a carta 5 de Ouros
+11/26/2024 10:22:39 PM: Fe Colocou em seu próprio monte a carta 7 de Ouros
+11/26/2024 10:22:39 PM: Lucas Descartou a carta 6 de Copas
+11/26/2024 10:22:39 PM: Fe Descartou a carta 11 de Paus
+11/26/2024 10:22:39 PM: Lucas Pegou da área de descarte a carta 8 de Espadas
+11/26/2024 10:22:39 PM: Fe Pegou da área de descarte a carta 1 de Paus
+11/26/2024 10:22:39 PM: Lucas Pegou da área de descarte a carta 6 de Paus
+11/26/2024 10:22:39 PM: Fe Descartou a carta 4 de Ouros
+11/26/2024 10:22:39 PM: Lucas Pegou da área de descarte a carta 3 de Copas
+11/26/2024 10:22:39 PM: Fe Descartou a carta 7 de Copas
+11/26/2024 10:22:39 PM: Lucas Pegou da área de descarte a carta 7 de Espadas
+11/26/2024 10:22:39 PM: Fe Descartou a carta 3 de Ouros
+11/26/2024 10:22:39 PM: Lucas Pegou da área de descarte a carta 4 de Paus
+11/26/2024 10:22:39 PM: Fe Pegou da área de descarte a carta 11 de Copas
+11/26/2024 10:22:39 PM: Lucas Descartou a carta 8 de Espadas
+11/26/2024 10:22:39 PM: Fe Descartou a carta 7 de Espadas
+11/26/2024 10:22:39 PM: Lucas Pegou da área de descarte a carta 3 de Paus
+11/26/2024 10:22:39 PM: Fe Descartou a carta 1 de Paus
+11/26/2024 10:22:39 PM: Lucas Descartou a carta 12 de Ouros
+11/26/2024 10:22:39 PM: Fe Descartou a carta 13 de Espadas
+11/26/2024 10:22:39 PM: Lucas Pegou da área de descarte a carta 9 de Copas
+11/26/2024 10:22:39 PM: Fe Descartou a carta 6 de Espadas
+11/26/2024 10:22:39 PM: Lucas Pegou da área de descarte a carta 12 de Paus
+11/26/2024 10:22:39 PM: Fe Pegou da área de descarte a carta 10 de Espadas
+11/26/2024 10:22:39 PM: Lucas Pegou da área de descarte a carta 13 de Paus
+11/26/2024 10:22:39 PM: Fe Pegou da área de descarte a carta 6 de Ouros
+11/26/2024 10:22:39 PM: Lucas Descartou a carta 5 de Espadas
+11/26/2024 10:22:39 PM: Fe Pegou da área de descarte a carta 1 de Espadas
+11/26/2024 10:22:39 PM: Lucas Descartou a carta 4 de Paus
+11/26/2024 10:22:39 PM: Fe Descartou a carta 3 de Espadas
+11/26/2024 10:22:39 PM: Lucas Descartou a carta 2 de Espadas
+11/26/2024 10:22:39 PM: Fe Descartou a carta 9 de Paus
+11/26/2024 10:22:39 PM: Lucas Pegou da área de descarte a carta 2 de Paus
+11/26/2024 10:22:39 PM: Fe Pegou da área de descarte a carta 7 de Copas
+11/26/2024 10:22:39 PM: Lucas Descartou a carta 12 de Espadas
+11/26/2024 10:22:39 PM: Fe Descartou a carta 11 de Ouros
+11/26/2024 10:22:39 PM: Lucas Pegou da área de descarte a carta 8 de Copas
+11/26/2024 10:22:39 PM: Fe Pegou da área de descarte a carta 9 de Copas
+11/26/2024 10:22:39 PM: Lucas Descartou a carta 7 de Paus
+11/26/2024 10:22:39 PM: Fe Descartou a carta 2 de Espadas
+11/26/2024 10:22:39 PM: Lucas Pegou da área de descarte a carta 5 de Copas
+11/26/2024 10:22:39 PM: Fe Descartou a carta 6 de Copas
+11/26/2024 10:22:39 PM: Lucas Roubou o monte inteiro de a carta 9 de Ouros
+11/26/2024 10:22:39 PM: Fe Pegou da área de descarte a carta 11 de Espadas
+11/26/2024 10:22:39 PM: Lucas Descartou a carta 1 de Ouros
+11/26/2024 10:22:39 PM: Fe Descartou a carta 10 de Paus
+11/26/2024 10:22:39 PM: Lucas Descartou a carta 13 de Espadas
+11/26/2024 10:22:39 PM: Fe Pegou da área de descarte a carta 10 de Espadas
+11/26/2024 10:22:39 PM: Lucas Pegou da área de descarte a carta 3 de Ouros
+11/26/2024 10:22:39 PM: Fe Descartou a carta 9 de Espadas
+11/26/2024 10:22:39 PM: Lucas Descartou a carta 11 de Paus
+11/26/2024 10:22:39 PM: Fe Descartou a carta 8 de Paus
+11/26/2024 10:22:39 PM: Lucas Pegou da área de descarte a carta 4 de Copas
+11/26/2024 10:22:39 PM: Fe Pegou da área de descarte a carta 1 de Espadas
+11/26/2024 10:22:39 PM: Lucas Pegou da área de descarte a carta 13 de Paus
+11/26/2024 10:22:39 PM: Fe Colocou em seu próprio monte a carta 1 de Copas
+11/26/2024 10:22:39 PM: Lucas Pegou da área de descarte a carta 11 de Ouros
+11/26/2024 10:22:39 PM: Fe Pegou da área de descarte a carta 8 de Ouros
+11/26/2024 10:22:39 PM: Lucas Colocou em seu próprio monte a carta 11 de Copas
+11/26/2024 10:22:39 PM: Fe Descartou a carta 3 de Copas
+11/26/2024 10:22:39 PM: Lucas Pegou da área de descarte a carta 6 de Ouros
+11/26/2024 10:22:39 PM: Fe Descartou a carta 1 de Ouros
+11/26/2024 10:22:39 PM: Lucas Descartou a carta 13 de Ouros
+11/26/2024 10:22:39 PM: Fe Descartou a carta 10 de Ouros
+11/26/2024 10:22:39 PM: Lucas Pegou da área de descarte a carta 2 de Copas
+11/26/2024 10:22:39 PM: Fe Pegou da área de descarte a carta 12 de Copas
+11/26/2024 10:22:39 PM: Lucas Descartou a carta 11 de Espadas
+11/26/2024 10:22:39 PM: Fe Descartou a carta 8 de Copas
+11/26/2024 10:22:39 PM: Lucas Descartou a carta 6 de Espadas
+11/26/2024 10:22:39 PM: Fe Pegou da área de descarte a carta 8 de Ouros
+11/26/2024 10:22:39 PM: Lucas Descartou a carta 12 de Copas
+11/26/2024 10:22:39 PM: Fe Pegou da área de descarte a carta 9 de Espadas
+11/26/2024 10:22:39 PM: Lucas Descartou a carta 4 de Espadas
+11/26/2024 10:22:39 PM: Fe Colocou em seu próprio monte a carta 9 de Ouros
+11/26/2024 10:22:39 PM: Lucas Pegou da área de descarte a carta 10 de Copas
+11/26/2024 10:22:39 PM: Fe Descartou a carta 5 de Espadas
+11/26/2024 10:22:39 PM: Lucas Pegou da área de descarte a carta 3 de Espadas
+11/26/2024 10:22:39 PM: Fe Pegou da área de descarte a carta 13 de Copas
+11/26/2024 10:22:39 PM: Lucas Pegou da área de descarte a carta 12 de Paus
+11/26/2024 10:22:39 PM: Fe Descartou a carta 2 de Copas
+11/26/2024 10:22:39 PM: Lucas Pegou da área de descarte a carta 6 de Paus
+11/26/2024 10:22:39 PM: Fe Pegou da área de descarte a carta 4 de Espadas
+11/26/2024 10:22:39 PM: Lucas Pegou da área de descarte a carta 2 de Ouros
+Ranking Final da Parti

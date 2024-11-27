@@ -9,23 +9,22 @@ namespace Rouba_Monte
 {
     public class RoubaMonte
     {
-        private List<Jogador> jogadoresAtuais;
-        private List<Jogador> jogadoresJogados;
-        private Fila monteCompra;
-        private Pilha areaDescarte;
+        private Dictionary<string, Jogador> jogadoresAtuais;
+        private Dictionary<string, Jogador> jogadoresJogados;
+        private Queue<Carta> monteCompra;
+        private List<Carta> areaDescarte;
         private StreamWriter logWriter;
         private int numBaralhos;
 
         public RoubaMonte()
         {
-            jogadoresAtuais = new List<Jogador>();
-            jogadoresJogados = new List<Jogador>();
-            monteCompra = new Fila(52);
-            areaDescarte = new Pilha();
+            jogadoresAtuais = new Dictionary<string, Jogador>();
+            jogadoresJogados = new Dictionary<string, Jogador>();
+            monteCompra = new Queue<Carta>();
+            areaDescarte = new List<Carta>();
 
             logWriter = new StreamWriter("E:\\ATP's\\Rouba-Monte\\Rouba-Monte\\log.txt", append: true);
         }
-
         public void IniciarJogo(bool novoJogo)
         {
             if (novoJogo)
@@ -37,21 +36,45 @@ namespace Rouba_Monte
                 logWriter.WriteLine($"O número de baralhos da partida é de: {numBaralhos}, totalizando {totalCartas} Cartas.");
                 Console.WriteLine("Digite o número de jogadores:");
                 int numeroDeJogadores = int.Parse(Console.ReadLine());
-                logWriter.WriteLine($"A quantidade de jogares dessa partida é de: {numeroDeJogadores}");
+                logWriter.WriteLine($"A quantidade de jogares dessa partida é de: {numeroDeJogadores} jogadores.");
 
-                jogadoresJogados.AddRange(jogadoresAtuais);
+                foreach (var jogador in jogadoresAtuais.Values)
+                {
+                    jogadoresJogados[jogador.Nome] = jogador;
+                }
                 jogadoresAtuais.Clear();
+
                 for (int i = 0; i < numeroDeJogadores; i++)
                 {
                     Console.WriteLine($"Digite o nome do jogador {i + 1}:");
                     string nomeJogador = Console.ReadLine();
                     logWriter.WriteLine($"Jogador {nomeJogador} foi adicionado na partida.");
-                    Jogador jogador = new Jogador(nomeJogador);
-                    jogadoresAtuais.Add(jogador);
+
+                    Jogador jogador;
+
+                    if (jogadoresAtuais.ContainsKey(nomeJogador))
+                    {
+                        jogador = jogadoresAtuais[nomeJogador];
+                        logWriter.WriteLine($"Usando o Jogador {nomeJogador} (jogador atual).");
+                        Console.WriteLine($"Jogador {nomeJogador} já existe, usando jogador existente.");
+                    }
+                    else if (jogadoresJogados.ContainsKey(nomeJogador))
+                    {
+                        jogador = jogadoresJogados[nomeJogador];
+                        jogadoresAtuais.Add(nomeJogador, jogador);
+                        logWriter.WriteLine($"Usando o Jogador {nomeJogador} (jogador anterior).");
+                        Console.WriteLine($"Jogador {nomeJogador} já jogou anteriormente, usando jogador existente.");
+                    }
+                    else
+                    {
+                        jogador = new Jogador(nomeJogador);
+                        jogadoresAtuais.Add(nomeJogador, jogador);
+                        logWriter.WriteLine($"Jogador {nomeJogador} foi adicionado como novo.");
+                    }
                 }
 
-                monteCompra = new Fila(totalCartas);
-                areaDescarte = new Pilha();
+                monteCompra = new Queue<Carta>();
+                areaDescarte = new List<Carta>();
                 CriarMonteDeCompra(numBaralhos);
                 logWriter.WriteLine("Monte de compras criado...");
                 EmbaralharMonte();
@@ -60,35 +83,34 @@ namespace Rouba_Monte
             else
             {
                 int totalCartas = numBaralhos * 52;
-                monteCompra = new Fila(totalCartas);
-                areaDescarte = new Pilha();
+                monteCompra = new Queue<Carta>();
+                areaDescarte = new List<Carta>();
                 CriarMonteDeCompra(numBaralhos);
                 logWriter.WriteLine("Monte de compras criado...");
                 EmbaralharMonte();
                 logWriter.WriteLine("Monte embaralhado...");
-                foreach (var jogador in jogadoresAtuais)
+
+                foreach (var jogador in jogadoresAtuais.Values)
                 {
                     jogador.LimparMonte();
-                    logWriter.WriteLine($"Monte do jogador {jogador} limpo.");
+                    logWriter.WriteLine($"Monte do jogador {jogador.Nome} limpo.");
                 }
             }
-
             Console.WriteLine("Escolha o jogador que iniciará: (Escolha por número)");
 
             int jogadorInicio = int.Parse(Console.ReadLine()) - 1;
             logWriter.WriteLine($"Jogador {jogadorInicio} iniciará a partida.");
 
-            while (monteCompra.Quantidade() > 0)
+            while (monteCompra.Count() > 0)
             {
-                foreach (var jogador in jogadoresAtuais)
+                foreach (var jogador in jogadoresAtuais.Values)
                 {
-                    if (monteCompra.Quantidade() == 0) break;
+                    if (monteCompra.Count() == 0) break;
                     RealizarJogada(jogador);
                 }
             }
             FinalizarJogo();
         }
-
         private void CriarMonteDeCompra(int numBaralhos)
         {
             for (int b = 0; b < numBaralhos; b++)
@@ -97,7 +119,7 @@ namespace Rouba_Monte
                 {
                     foreach (string naipe in new[] { "Paus", "Copas", "Espadas", "Ouros" })
                     {
-                        monteCompra.Inserir(new Carta(valor, naipe));
+                        monteCompra.Enqueue(new Carta(valor, naipe));
                     }
                 }
             }
@@ -106,16 +128,16 @@ namespace Rouba_Monte
         private void EmbaralharMonte()
         {
             var cartas = new List<Carta>();
-            while (monteCompra.Quantidade() > 0)
+            while (monteCompra.Count() > 0)
             {
-                cartas.Add(monteCompra.Remover());
+                cartas.Add(monteCompra.Dequeue());
             }
 
             Random rand = new Random();
             while (cartas.Count > 0)
             {
                 int index = rand.Next(cartas.Count);
-                monteCompra.Inserir(cartas[index]);
+                monteCompra.Enqueue(cartas[index]);
                 cartas.RemoveAt(index);
             }
             logWriter.WriteLine("Monte de compra embaralhado.");
@@ -126,9 +148,9 @@ namespace Rouba_Monte
         {
             Console.WriteLine($"\nVez do jogador: {jogador.Nome}\n");
 
-            if (monteCompra.Quantidade() > 0)
+            if (monteCompra.Count() > 0)
             {
-                Carta cartaComprada = monteCompra.Remover();
+                Carta cartaComprada = monteCompra.Dequeue();
                 Console.WriteLine($"{jogador.Nome} comprou a carta: {cartaComprada}");
 
                 bool jogadaEfetuada = false;
@@ -149,41 +171,52 @@ namespace Rouba_Monte
                     }
                     else
                     {
-                        areaDescarte.Empilhar(cartaComprada);
+                        areaDescarte.Add(cartaComprada);
                         jogadaEfetuada = true;
                         LogJogada(jogador, "Descartou", cartaComprada);
                     }
                 }
             }
         }
-
         private bool VerificarRoubo(Jogador jogador, Carta cartaComprada)
         {
             foreach (var outroJogador in jogadoresAtuais)
             {
-                if (outroJogador != jogador && !outroJogador.Monte.Vazia())
+                if (outroJogador.Value != jogador && !outroJogador.Value.Monte.Vazia())
                 {
-                    Carta cartaTopoOutroMonte = outroJogador.Monte.Peek();
+                    Carta cartaTopoOutroMonte = outroJogador.Value.Monte.Peek();
                     if (cartaTopoOutroMonte.Valor == cartaComprada.Valor)
                     {
+                        while (!outroJogador.Value.Monte.Vazia())
+                        {
+                            jogador.Monte.Empilhar(outroJogador.Value.Monte.Desempilhar());
+                        }
+
                         jogador.Monte.Empilhar(cartaComprada);
-                        jogador.Monte.Empilhar(outroJogador.Monte.Desempilhar());
-                        LogJogada(jogador, "Roubou o monte de", cartaComprada);
+                        LogJogada(jogador, "Roubou o monte inteiro de", cartaComprada);
                         return true;
                     }
                 }
             }
             return false;
         }
-
         private bool VerificarDescarte(Jogador jogador, Carta cartaComprada)
         {
-            if (!areaDescarte.Vazia() && areaDescarte.Peek().Valor == cartaComprada.Valor)
+
+            for (int i = 0; i < areaDescarte.Count; i++)
             {
-                jogador.Monte.Empilhar(cartaComprada);
-                jogador.Monte.Empilhar(areaDescarte.Desempilhar());
-                LogJogada(jogador, "Pegou da área de descarte", cartaComprada);
-                return true;
+                if (areaDescarte[i].Valor == cartaComprada.Valor)
+                {
+
+                    Carta cartaCorrespondente = areaDescarte[i];
+                    areaDescarte.RemoveAt(i);
+
+                    jogador.Monte.Empilhar(cartaComprada);
+                    jogador.Monte.Empilhar(cartaCorrespondente);
+
+                    LogJogada(jogador, "Pegou da área de descarte", cartaComprada);
+                    return true;
+                }
             }
             return false;
         }
@@ -208,9 +241,8 @@ namespace Rouba_Monte
 
         private void FinalizarJogo()
         {
-
-            var ranking = jogadoresAtuais.OrderByDescending(j => j.Monte.Tamanho()).ToList();
-
+            var ranking = jogadoresAtuais.Values.ToList();
+            Ordenar.Selecao(ranking);
 
             logWriter.WriteLine("Ranking Final da Partida:");
             Console.WriteLine("Ranking Final da Partida:");
@@ -230,11 +262,10 @@ namespace Rouba_Monte
 
             MostrarRanking();
         }
-
-        // Mostra o ranking de jogadores
         private void MostrarRanking()
         {
-            var ranking = jogadoresAtuais.OrderByDescending(j => j.Monte.Tamanho()).ToList();
+            var ranking = jogadoresAtuais.Values.ToList();
+            Ordenar.Selecao(ranking);
             Console.WriteLine("\nRanking da partida:");
             logWriter.WriteLine("\nRanking da partida:");
             foreach (var jogador in ranking)
@@ -244,7 +275,6 @@ namespace Rouba_Monte
             }
         }
 
-        // Método para sair do jogo
         public void Sair()
         {
             logWriter.WriteLine("Saindo do jogo...");
@@ -253,7 +283,6 @@ namespace Rouba_Monte
             Environment.Exit(0);
         }
 
-        // Método para iniciar um novo jogo
         public void NovoJogo()
         {
             logWriter.WriteLine("Iniciando um novo jogo...");
@@ -261,7 +290,6 @@ namespace Rouba_Monte
             IniciarJogo(true);
         }
 
-        // Método para jogar novamente
         public void JogarNovamente()
         {
             logWriter.WriteLine("Reiniciando o jogo...");
@@ -274,19 +302,31 @@ namespace Rouba_Monte
             logWriter.WriteLine("=== Jogadores de jogos anteriores ===");
             foreach (var jogador in jogadoresJogados)
             {
-                Console.WriteLine(jogador.Nome);
-                logWriter.WriteLine(jogador.Nome);
+                Console.WriteLine($"Jogador {jogador.Value.Nome} foi adicionado na partida.");
+                logWriter.WriteLine($"Jogador {jogador.Value.Nome} foi adicionado na partida.");
+
             }
         }
-        // Método para mostrar o histórico de um jogador
+
         public void MostrarHistoricoJogador()
         {
             Console.WriteLine("Digite o nome do jogador para ver o histórico:");
             string nomeJogador = Console.ReadLine();
             logWriter.WriteLine($"Procurando histórico do jogador {nomeJogador}");
 
-            // Combina as listas de jogadores atuais e anteriores
-            var jogador = jogadoresAtuais.Concat(jogadoresJogados).FirstOrDefault(j => j.Nome == nomeJogador);
+            List<Jogador> jogadoresCombinados = new List<Jogador>();
+            jogadoresCombinados.AddRange(jogadoresAtuais.Values);
+            jogadoresCombinados.AddRange(jogadoresJogados.Values);
+
+            Jogador jogador = null;
+            foreach (var j in jogadoresCombinados)
+            {
+                if (j.Nome == nomeJogador)
+                {
+                    jogador = j;
+                    break;
+                }
+            }
 
             if (jogador != null)
             {
@@ -300,4 +340,6 @@ namespace Rouba_Monte
         }
 
     }
+
 }
+

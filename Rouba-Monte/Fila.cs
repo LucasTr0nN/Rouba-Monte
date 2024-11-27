@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,7 +9,7 @@ namespace Rouba_Monte
 {
     public class Fila
     {
-        private Carta[] fila;
+        private int[] fila;
         private int capacidadeMaxima;
         private int Primeiro;
         private int Ultimo;
@@ -17,35 +18,35 @@ namespace Rouba_Monte
         public Fila(int capacidadeMaxima)
         {
             this.capacidadeMaxima = capacidadeMaxima;
-            fila = new Carta[capacidadeMaxima];
+            fila = new int[capacidadeMaxima];
             Primeiro = 0;
             Ultimo = 0;
             tamanho = 0;
         }
 
-        public void Inserir(Carta carta)
+        public void Inserir(int valor)
         {
             if (tamanho == capacidadeMaxima)
             {
-                throw new InvalidOperationException("Fila cheia.");
+                throw new Exception("Fila cheia.");
             }
 
-            fila[Ultimo] = carta;
+            fila[Ultimo] = valor;
             Ultimo = (Ultimo + 1) % capacidadeMaxima;
             tamanho++;
         }
 
-        public Carta Remover()
+        public int Remover()
         {
             if (tamanho == 0)
             {
-                throw new InvalidOperationException("Fila vazia.");
+                throw new Exception("Fila vazia.");
             }
 
-            Carta carta = fila[Primeiro];
+            int valor = fila[Primeiro];
             Primeiro = (Primeiro + 1) % capacidadeMaxima;
             tamanho--;
-            return carta;
+            return valor;
         }
 
         public int Quantidade()
