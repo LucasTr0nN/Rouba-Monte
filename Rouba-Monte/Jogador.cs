@@ -9,27 +9,45 @@ namespace Rouba_Monte
 {
     public class Jogador
     {
-        public string Nome { get; set; }
-        public int Posição { get; set; }
-        public Pilha Monte { get; set; }
-        public Queue<int> Ranking { get; set; }
+        private string nome;
+        private int posicao;
+        private Pilha monte;
+        private Fila Ranking;
 
+        public string Nome
+        {
+            get { return nome; }
+            set { nome = value; }
+        }
+
+        public int Posição
+        {
+            get { return posicao; }
+            set { posicao = value; }
+        }
+
+        public Pilha Monte
+        {
+            get { return monte; }
+            set { monte = value; }
+        }
         public Jogador(string nome)
         {
             Nome = nome;
             Posição = 0;
             Monte = new Pilha();
-            Ranking = new Queue<int>(5);
+            Ranking = new Fila(5);
         }
 
         public void AdicionarRanking(int posicao)
         {
-            if (Ranking.Count() == 5)
+            if (Ranking.Quantidade() == 5)
             {
-                Ranking.Dequeue();
+                Ranking.Remover();
             }
-            Ranking.Enqueue(posicao);
+            Ranking.Inserir(posicao);
         }
+
         public void LimparMonte()
         {
             while (!Monte.Vazia())
@@ -39,12 +57,12 @@ namespace Rouba_Monte
         }
         public void MostrarRanking(StreamWriter logWriter)
         {
-            int i = 1;
-            foreach (int posicao in Ranking)
+            for (int i = 0; i < Ranking.Quantidade(); i++)
             {
-                logWriter.WriteLine($"Partida: {i} Posição: {posicao}");
-                Console.WriteLine($"Partida: {i} Posição: {posicao}");
-                i++;
+                int posicao = Ranking.Remover();
+                logWriter.WriteLine($"Partida: {i + 1} Posição: {posicao}");
+                Console.WriteLine($"Partida: {i + 1} Posição: {posicao}");
+                Ranking.Inserir(posicao);
             }
         }
     }
