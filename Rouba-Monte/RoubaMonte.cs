@@ -148,36 +148,48 @@ namespace Rouba_Monte
         {
             Console.WriteLine($"\nVez do jogador: {jogador.Nome}\n");
 
-            if (monteCompra.Count() > 0)
+            while (true)
             {
+                if (monteCompra.Count() == 0)
+                {
+                    Console.WriteLine("O monte de compra está vazio. Fim do jogo.");
+                    break;
+                }
+
                 Carta cartaComprada = monteCompra.Dequeue();
                 Console.WriteLine($"{jogador.Nome} comprou a carta: {cartaComprada}");
 
                 bool jogadaEfetuada = false;
 
-                while (!jogadaEfetuada)
+                if (VerificarRoubo(jogador, cartaComprada))
                 {
-                    if (VerificarRoubo(jogador, cartaComprada))
-                    {
-                        jogadaEfetuada = true;
-                    }
-                    else if (VerificarDescarte(jogador, cartaComprada))
-                    {
-                        jogadaEfetuada = true;
-                    }
-                    else if (VerificarProprioMonte(jogador, cartaComprada))
-                    {
-                        jogadaEfetuada = true;
-                    }
-                    else
-                    {
-                        areaDescarte.Add(cartaComprada);
-                        jogadaEfetuada = true;
-                        LogJogada(jogador, "Descartou", cartaComprada);
-                    }
+                    Console.WriteLine($"{jogador.Nome} roubou o monte de outro jogador! Jogue novamente.\n");
+                    continue;
+                }
+                else if (VerificarProprioMonte(jogador, cartaComprada))
+                {
+                    Console.WriteLine($"{jogador.Nome} colocou a carta em seu próprio monte! Jogue novamente.\n");
+                    continue;
+                }
+                else if (VerificarDescarte(jogador, cartaComprada))
+                {
+                    Console.WriteLine($"{jogador.Nome} pegou cartas da área de descarte! Jogue novamente.\n");
+                    continue;
+                }
+                else
+                {
+                    areaDescarte.Add(cartaComprada);
+                    Console.WriteLine($"{jogador.Nome} descartou a carta: {cartaComprada}");
+                    LogJogada(jogador, "Descartou", cartaComprada);
+                    jogadaEfetuada = true;
+                }
+                if (jogadaEfetuada)
+                {
+                    break;
                 }
             }
         }
+
         private bool VerificarRoubo(Jogador jogador, Carta cartaComprada)
         {
             foreach (var outroJogador in jogadoresAtuais)
@@ -193,7 +205,8 @@ namespace Rouba_Monte
                         }
 
                         jogador.Monte.Empilhar(cartaComprada);
-                        LogJogada(jogador, "Roubou o monte inteiro de", cartaComprada);
+                        logWriter.WriteLine($"{DateTime.Now}: {jogador.Nome} Roubou o monte inteiro do {outroJogador.Key} {cartaComprada.ToString()}");
+                        LogJogada(jogador, "Roubou o monte inteiro com", cartaComprada);
                         return true;
                     }
                 }
@@ -236,7 +249,6 @@ namespace Rouba_Monte
         {
             string log = $"{DateTime.Now}: {jogador.Nome} {acao} a carta {carta.ToString()}";
             logWriter.WriteLine(log);
-            Console.WriteLine(log);
         }
 
         private void FinalizarJogo()
@@ -342,4 +354,3 @@ namespace Rouba_Monte
     }
 
 }
-
