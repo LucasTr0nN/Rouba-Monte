@@ -57,6 +57,7 @@ namespace Rouba_Monte
                         jogador = jogadoresAtuais[nomeJogador];
                         logWriter.WriteLine($"Usando o Jogador {nomeJogador} (jogador atual).");
                         Console.WriteLine($"Jogador {nomeJogador} já existe, usando jogador existente.");
+                        jogador.LimparMonte();
                     }
                     else if (jogadoresJogados.ContainsKey(nomeJogador))
                     {
@@ -64,6 +65,7 @@ namespace Rouba_Monte
                         jogadoresAtuais.Add(nomeJogador, jogador);
                         logWriter.WriteLine($"Usando o Jogador {nomeJogador} (jogador anterior).");
                         Console.WriteLine($"Jogador {nomeJogador} já jogou anteriormente, usando jogador existente.");
+                        jogador.LimparMonte();
                     }
                     else
                     {
@@ -105,7 +107,11 @@ namespace Rouba_Monte
             {
                 foreach (var jogador in jogadoresAtuais.Values)
                 {
-                    if (monteCompra.Count() == 0) break;
+                    if (monteCompra.Count() == 0)
+                    {
+                        Console.WriteLine("O monte de compra está vazio. Fim do jogo.");
+                        break;
+                    }
                     RealizarJogada(jogador);
                 }
             }
@@ -149,13 +155,7 @@ namespace Rouba_Monte
             Console.WriteLine($"\nVez do jogador: {jogador.Nome}\n");
 
             while (true)
-            {
-                if (monteCompra.Count() == 0)
-                {
-                    Console.WriteLine("O monte de compra está vazio. Fim do jogo.");
-                    break;
-                }
-
+            {             
                 Carta cartaComprada = monteCompra.Dequeue();
                 Console.WriteLine($"{jogador.Nome} comprou a carta: {cartaComprada}");
 
@@ -314,8 +314,8 @@ namespace Rouba_Monte
             logWriter.WriteLine("=== Jogadores de jogos anteriores ===");
             foreach (var jogador in jogadoresJogados)
             {
-                Console.WriteLine($"Jogador {jogador.Value.Nome} foi adicionado na partida.");
-                logWriter.WriteLine($"Jogador {jogador.Value.Nome} foi adicionado na partida.");
+                Console.WriteLine($"{jogador.Value.Nome}");
+                logWriter.WriteLine($"{jogador.Value.Nome}");
 
             }
         }
