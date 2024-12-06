@@ -11,7 +11,7 @@ namespace Rouba_Monte
     {
         private Dictionary<string, Jogador> jogadoresAtuais;
         private Dictionary<string, Jogador> jogadoresJogados;
-        private Queue<Carta> monteCompra;
+        private Stack<Carta> monteCompra;
         private List<Carta> areaDescarte;
         private StreamWriter logWriter;
         private int numBaralhos;
@@ -20,7 +20,7 @@ namespace Rouba_Monte
         {
             jogadoresAtuais = new Dictionary<string, Jogador>();
             jogadoresJogados = new Dictionary<string, Jogador>();
-            monteCompra = new Queue<Carta>();
+            monteCompra = new Stack<Carta>();
             areaDescarte = new List<Carta>();
 
             logWriter = new StreamWriter("E:\\ATP's\\Rouba-Monte\\Rouba-Monte\\log.txt", append: true);
@@ -75,7 +75,7 @@ namespace Rouba_Monte
                     }
                 }
 
-                monteCompra = new Queue<Carta>();
+                monteCompra = new Stack<Carta>();
                 areaDescarte = new List<Carta>();
                 CriarMonteDeCompra(numBaralhos);
                 logWriter.WriteLine("Monte de compras criado...");
@@ -85,7 +85,7 @@ namespace Rouba_Monte
             else
             {
                 int totalCartas = numBaralhos * 52;
-                monteCompra = new Queue<Carta>();
+                monteCompra = new Stack<Carta>();
                 areaDescarte = new List<Carta>();
                 CriarMonteDeCompra(numBaralhos);
                 logWriter.WriteLine("Monte de compras criado...");
@@ -109,7 +109,6 @@ namespace Rouba_Monte
                 {
                     if (monteCompra.Count() == 0)
                     {
-                        Console.WriteLine("O monte de compra está vazio. Fim do jogo.");
                         break;
                     }
                     RealizarJogada(jogador);
@@ -125,7 +124,7 @@ namespace Rouba_Monte
                 {
                     foreach (string naipe in new[] { "Paus", "Copas", "Espadas", "Ouros" })
                     {
-                        monteCompra.Enqueue(new Carta(valor, naipe));
+                        monteCompra.Push(new Carta(valor, naipe));
                     }
                 }
             }
@@ -136,27 +135,31 @@ namespace Rouba_Monte
             var cartas = new List<Carta>();
             while (monteCompra.Count() > 0)
             {
-                cartas.Add(monteCompra.Dequeue());
+                cartas.Add(monteCompra.Pop());
             }
 
             Random rand = new Random();
             while (cartas.Count > 0)
             {
                 int index = rand.Next(cartas.Count);
-                monteCompra.Enqueue(cartas[index]);
+                monteCompra.Push(cartas[index]);
                 cartas.RemoveAt(index);
             }
             logWriter.WriteLine("Monte de compra embaralhado.");
             Console.WriteLine("Monte de compra embaralhado.");
         }
-
         private void RealizarJogada(Jogador jogador)
         {
             Console.WriteLine($"\nVez do jogador: {jogador.Nome}\n");
 
             while (true)
-            {             
-                Carta cartaComprada = monteCompra.Dequeue();
+            {
+                if (monteCompra.Count() == 0)
+                {
+                    Console.WriteLine("O monte de compra está vazio. Fim do jogo.\n");
+                    break;
+                }
+                Carta cartaComprada = monteCompra.Pop();
                 Console.WriteLine($"{jogador.Nome} comprou a carta: {cartaComprada}");
 
                 bool jogadaEfetuada = false;
@@ -255,38 +258,27 @@ namespace Rouba_Monte
         {
             var ranking = jogadoresAtuais.Values.ToList();
             Ordenar.Selecao(ranking);
-
-            logWriter.WriteLine("Ranking Final da Partida:");
-            Console.WriteLine("Ranking Final da Partida:");
+            Console.ReadLine();
+            Console.Clear();
+            
             for (int i = 0; i < ranking.Count; i++)
             {
                 var jogador = ranking[i];
-                logWriter.WriteLine($"{i + 1}° Lugar: {jogador.Nome} com {jogador.Monte.Tamanho()} cartas.");
-                Console.WriteLine($"{i + 1}° Lugar: {jogador.Nome} com {jogador.Monte.Tamanho()} cartas.");
-
                 jogador.AdicionarRanking(i + 1);
             }
 
             var vencedor = ranking.First();
-            Console.Clear();
-            Console.WriteLine($"\nO vencedor é: {vencedor.Nome} com {vencedor.Monte.Tamanho()} cartas.");
-            logWriter.WriteLine($"\nO vencedor é: {vencedor.Nome} com {vencedor.Monte.Tamanho()} cartas.");
-
-            MostrarRanking();
-        }
-        private void MostrarRanking()
-        {
-            var ranking = jogadoresAtuais.Values.ToList();
-            Ordenar.Selecao(ranking);
-            Console.WriteLine("\nRanking da partida:");
-            logWriter.WriteLine("\nRanking da partida:");
-            foreach (var jogador in ranking)
+            logWriter.WriteLine("Ranking Final da Partida:");
+            Console.WriteLine("\nRanking Final da Partida:\n");
+            Console.WriteLine($"O vencedor é: {vencedor.Nome} com {vencedor.Monte.Tamanho()} cartas.\n");
+            logWriter.WriteLine($"O vencedor é: {vencedor.Nome} com {vencedor.Monte.Tamanho()} cartas.");
+            for (int i = 0; i < ranking.Count; i++)
             {
-                Console.WriteLine($"{jogador.Nome}: {jogador.Monte.Tamanho()} cartas");
-                logWriter.WriteLine($"{jogador.Nome}: {jogador.Monte.Tamanho()} cartas");
+                var jogador = ranking[i];
+                logWriter.WriteLine($"{i + 1}°:{jogador.Nome} Cartas:{jogador.Monte.Tamanho()}.\n");
+                Console.WriteLine($"{i + 1}°:{jogador.Nome} Cartas:{jogador.Monte.Tamanho()}.\n");
             }
         }
-
         public void Sair()
         {
             logWriter.WriteLine("Saindo do jogo...");
